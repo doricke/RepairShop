@@ -1,0 +1,1 @@
+jar cvmf Words.mf Words.jar *.class

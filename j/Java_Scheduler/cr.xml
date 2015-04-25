@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='no'?>
+<!DOCTYPE Entries SYSTEM 'xmlloader.dtd'>
+
+<Entries>
+  <Entry name="Document">
+    <Field name="document_id">1</Field>
+    <Field name="folder_id">2</Field>
+    <Entry name="Result">
+      <Entry name="SequenceTable">
+        <Field name="sequence_name">CL005599.229</Field>
+        <Field name="sequence_length">3637</Field>
+      </Entry>
+
+      <Entry name="Program">
+        <Field name="program_name">GeneMark.hmm</Field>
+        <Field name="program_version">2.2</Field>
+        <Field name="program_description">GeneMark.hmm gene prediction program</Field>
+      </Entry>
+
+      <Field name="result_type">GeneMark.hmm gene prediction</Field>
+      <Field name="date_created" format="yyyy-mm-dd">2000-09-26</Field>
+      <Field name="result_clob">
+      </Field>
+    </Entry>
+
+  </Entry>
+
+</Entries>

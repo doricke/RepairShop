@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='no'?>
+<!DOCTYPE Entries SYSTEM 'xmlloader.dtd'>
+
+<Entries>
+  <Entry name="Program">
+    <Field name="program_name">BLASTN</Field>
+    <Field name="program_version">1.4</Field>
+    <Field name="executable">blastn</Field>
+    <Entry name="Parameter">
+      <Field name="prefix">-i=</Field>
+      <Field name="label">input</Field>
+      <Field name="value">test.seq</Field>
+      <Field name="default_value"></Field>
+      <Field name="required">true</Field>
+      <Field name="multiple">false</Field>
+      <Field name="type"></Field>
+      <Field name="gui_type">TextField</Field>
+    </Entry>
+
+  </Entry>
+
+</Entries>

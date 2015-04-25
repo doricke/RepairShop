@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='no'?>
+<!DOCTYPE Entries SYSTEM 'xmlloader.dtd'>
+
+<Entries>
+  <Entry name="Program">
+    <Field name="prefix">blastall -p</Field>
+    <Field name="label">blastx</Field>
+    <Field name="program_name">blastx</Field>
+    <Field name="program_version">2.0</Field>
+    <Entry name="Parameter">
+      <Field name="prefix">-i</Field>
+      <Field name="label">Query sequence</Field>
+      <Field name="value"></Field>
+      <Field name="default_value"></Field>
+      <Field name="required">true</Field>
+      <Field name="multiple">false</Field>
+      <Field name="type"></Field>
+      <Field name="gui_type">TextField</Field>
+    </Entry>
+
+    <Entry name="Parameter">
+      <Field name="prefix">-v</Field>
+      <Field name="label">Max Alignments</Field>
+      <Field name="value">20</Field>
+      <Field name="default_value">20</Field>
+      <Field name="required">true</Field>
+      <Field name="multiple">false</Field>
+      <Field name="type"></Field>
+      <Field name="gui_type">TextField</Field>
+    </Entry>
+
+    <Entry name="Parameter">
+      <Field name="prefix">-b</Field>
+      <Field name="label">Max Scores:</Field>
+      <Field name="value">20</Field>
+      <Field name="default_value">20</Field>
+      <Field name="required">true</Field>
+      <Field name="multiple">false</Field>
+      <Field name="type"></Field>
+      <Field name="gui_type">TextField</Field>
+    </Entry>
+
+    <Entry name="Parameter">
+      <Field name="prefix">-E</Field>
+      <Field name="label">Expectation: </Field>
+      <Field name="value"></Field>
+      <Field name="default_value"></Field>
+      <Field name="required">false</Field>
+      <Field name="multiple">false</Field>
+      <Field name="type"></Field>
+      <Field name="gui_type">TextField</Field>
+    </Entry>
+
+    <Entry name="Parameter">
+      <Field name="prefix">-d</Field>
+      <Field name="label">Database</Field>
+      <Field name="value">plantfungal</Field>
+      <Field name="default_value">plantfungal</Field>
+      <Field name="required">true</Field>
+      <Field name="multiple">false</Field>
+      <Field name="type"></Field>
+      <Field name="gui_type">TextField</Field>
+    </Entry>
+
+  </Entry>
+
+</Entries>

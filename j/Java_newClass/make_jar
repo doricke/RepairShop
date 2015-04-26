@@ -1,0 +1,1 @@
+jar cvmf NewClass.mf NewClass.jar *.class

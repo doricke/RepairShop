@@ -1,0 +1,84 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema">
+
+  <xs:simpleType name = "Comment">
+    <xs:restriction base = "xs:string">
+     <xs:minLength value = "1"/>
+     <xs:maxLength value = "80"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name = "Name">
+    <xs:restriction base = "xs:string">
+     <xs:minLength value = "1"/>
+     <xs:maxLength value = "80"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name = "ValueType">
+    <xs:restriction base = "xs:string">
+      <xs:enumeration value = "boolean"/>
+      <xs:enumeration value = "byte"/>
+      <xs:enumeration value = "char"/>
+      <xs:enumeration value = "date"/>
+      <xs:enumeration value = "double"/>
+      <xs:enumeration value = "enumeration"/>
+      <xs:enumeration value = "float"/>
+      <xs:enumeration value = "int"/>
+      <xs:enumeration value = "long"/>
+      <xs:enumeration value = "object"/>
+      <xs:enumeration value = "set"/>
+      <xs:enumeration value = "short"/>
+      <xs:enumeration value = "string"/>
+      <xs:enumeration value = "string_buffer"/>
+      <xs:enumeration value = "text"/>
+      <xs:enumeration value = "vector"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+
+  <xs:element name = "Attribute">
+   <xs:complexType>
+    <xs:attribute name = "name" type = "Name" use = "required"/>
+    <xs:attribute name = "type" type = "ValueType" use = "optional"/>
+    <xs:attribute name = "value" type = "xs:string" use = "optional"/>
+    <xs:attribute name = "comment" type = "Comment" use = "optional"/>
+    <xs:attribute name = "object_name" type = "Name" use = "optional"/>
+    <xs:attribute name = "object_initialize" type = "xs:string" use = "optional"/>
+   </xs:complexType>
+  </xs:element>
+
+  <xs:element name = "Method">
+   <xs:complexType>
+    <xs:attribute name = "name" type = "Name" use = "required"/>
+    <xs:attribute name = "type" type = "xs:string" use = "optional"/>
+    <xs:attribute name = "value" type = "xs:string" use = "optional"/>
+    <xs:attribute name = "comment" type = "Comment" use = "optional"/>
+    <xs:all>
+     <xs:element ref = "Attribute"/>
+    </xs:all>
+   </xs:complexType>
+  </xs:element>
+
+  <xs:element name = "Class">
+   <xs:complexType>
+    <xs:attribute name = "name" type = "Name" use = "required"/>
+    <xs:attribute name = "extends" type = "xs:string" use = "optional"/>
+    <xs:attribute name = "comment" type = "Comment" use = "optional"/>
+    <xs:all>
+     <xs:element ref = "Attribute"/>
+     <xs:element ref = "Method"/>
+    </xs:all>
+   </xs:complexType>
+  </xs:element>
+ 
+  <xs:element name = "OpenXML">
+   <xs:complexType>
+    <xs:all>
+     <xs:element ref = "Class"/>
+    </xs:all>
+   </xs:complexType>
+  </xs:element>
+
+</xs:schema> 
+

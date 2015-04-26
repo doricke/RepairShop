@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='no'?>
+<OpenXML 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="open_code.xsd">
+  <Class name='class1' comment='Class 1 comment'>
+    <Attribute name='var1' type='int' comment='class1 var1'/> 
+    <Attribute name='var2' type='float' value='3.14F' comment='class1 var2 float'/> 
+    <Method name='toStr' type='String' value='var1 + "\t" + var2' comment='to string'/>
+  </Class>
+  <Class name='class2' comment='Class 2 comment'>
+    <Attribute name='var3' type='boolean' value='false' comment='class2 var1 boolean'/> 
+    <Attribute name='var4' type='char' value='3' comment='class2 var2 char'/> 
+    <Attribute name='var5' type='String' value='This is a long string' comment='class2 var3 String'/> 
+    <Method name='isValid' type='boolean' value='true'/>
+  </Class>
+</OpenXML>

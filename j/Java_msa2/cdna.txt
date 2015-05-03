@@ -1,0 +1,168 @@
+Summary sequence view
+
+                  BLASTPubMedNucleotideProteinGenomeStructurePopSetTaxonomyHelp
+
+
+       FASTA view  Sequence feature view of the region: (gi|3172047:2206-2442, 
+      3143-3278, 3394-3446, 3569-3677, 3752-3888, 3983-4179, 4264-4413, 
+      4516-4781, 5183-5273, 5398-5491, 5727-5822, 6457-6597, 6873-6923, 
+      8350-8420, 8522-8614, 9098-9188, 10438-10509, 11495-11620, 11806-11862, 
+      12195-12269, 12839-12927, 13083-13160, 13577-13715, 14137-14246, 
+      14420-14519, 14817-14924)
+LOCUS       3172047      2967 bp    DNA             PLN       14-APR-2000
+DEFINITION  CDS from: Oryza sativa gene for starch debranching enzyme, complete
+            cds.
+ACCESSION   3172047
+VERSION     3172047
+KEYWORDS    starch debranching enzyme; pullulanase.
+SOURCE      Oryza sativa (cultivar:Norin-8) DNA, clone_lib:lambda DASH II.
+  ORGANISM  Oryza sativa
+            Eukaryota; Viridiplantae; Embryophyta; Tracheophyta; Spermatophyta;
+            Magnoliophyta; Liliopsida; Poales; Poaceae; Oryza.
+REFERENCE   1  (sites)
+  AUTHORS   Francisco,P.B. Jr., Zhang,Y., Park,S.Y., Ogata,N., Yamanouchi,H.
+            and Nakamura,Y.
+  TITLE     Genomic DNA sequence of a rice gene coding for a pullulanase-type
+            of starch debranching enzyme
+  JOURNAL   Biochim. Biophys. Acta 1387 (1-2), 469-477 (1998)
+  MEDLINE   98422345
+REFERENCE   2  (bases 2206 to 14924)
+  AUTHORS   Nakamura,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-APR-1998) to the DDBJ/EMBL/GenBank databases.
+            Yasunori Nakamura, National Institute of Agrobiological Resources,
+            Department of Plant Physiology; 2-1-2 Kannondai, Tsukuba, Ibaraki
+            305-8602, Japan (E-mail:nakayn@abr.affrc.go.jp, Tel:81-298-38-8382,
+            Fax:81-298-38-8347)
+FEATURES             Location/Qualifiers
+     exon            <1..237
+                     /number=1
+     CDS             1..2967
+                     /note="pullulanase"
+                     /codon_start=1
+                     /product="starch debranching enzyme"
+                     /db_xref="GI:3172048"
+                     /translation="MQMLLHANSLLLLAPTTSRLSASASPGRSGTARPLPPPQGTRIP
+                     PAPPLAGHGGRPPSPQPRRGRDGVGEECAAAVASQGFVTDARAYWVTRSLIAWNVNDQ
+                     DTSLFLYASRDATMHVSDGAIHGYDSKIELEPEHASLPDNVAEKFPFIRSYRTFRVPS
+                     SVDVASLVKCQLAVASYDAHGRHQDVTGLQLPGVLDDMFAYTGPLGAVFSDKDVDLYL
+                     WAPTAQDVRVCFYDGPAGPLLQTVQLKELNGVWSVTVPRYPENQYYLYEVKVYHPSTS
+                     QVEKCLADDPYARGLSANGTRTWLVDINSETLKPASWDELSDEEPNLESFSDISIYEL
+                     HIRDFSAHDSTVDCNSRGGFVHLHFRLFRLNLLNDFCSPPITKHPGRIMETVMQDSAG
+                     IRHLRKLSAAGLTHVHLLPSFHFASVDDNKSNWKFVDEAQLAKLPPGSDEQQAAIVSI
+                     QQEDPYNWGYDPVLWGVPKGSYASNPDGPSRIIEYRQMVQALNRIGLRVVMDVVYNHL
+                     DSSGPFGVSSVLDKIVPGYYLRRNVNGQIENSAAMNNTASEHFMVDRLTVDDLLNWAI
+                     NYKVDGFRFDLMGHIMKSTMIRAKSAIRSLTRDVHGVYGSKIYLYGEGWDFGEVAQNK
+                     RGINASQINMSGTGIGSFNDRIRDSVNGGNPFGNPLQQGFSTGLFLEPNGYYQGNEAD
+                     TRRELATYADHIQIGLAGNLKDYVLRTHTGEAKKGSDIYTFDGSPVGYTSSPVETINY
+                     VSAHDNETLFDIVSIKTPIGLSIDEKCRINHLASSMIALSQGIPFFHAGDEILRSKSL
+                     DRDSYNSGDWFNKLDFTYETNNWGVGLPPRDKNEENWHLIKPRLENPSFRPLKNHILS
+                     AFDNFVDILKIRYSSPLFRLSTASDIEQRVRFHNTGPSMVPGVIVMSIKDAQNEKCKM
+                     AQLDKNFSYVVTIFNVCPHEVSIEIHDLASLGLELHPIQVNSSDALVRQSAYEASKGR
+                     FTVPRRTTAVFVQPRC"
+     exon            238..373
+                     /number=2
+     exon            374..426
+                     /number=3
+     exon            427..535
+                     /number=4
+     exon            536..672
+                     /number=5
+     exon            673..869
+                     /number=6
+     exon            870..1019
+                     /number=7
+     exon            1020..1285
+                     /number=8
+     exon            1286..1376
+                     /number=9
+     exon            1377..1470
+                     /number=10
+     exon            1471..1566
+                     /number=11
+     exon            1567..1707
+                     /number=12
+     exon            1708..1758
+                     /number=13
+     exon            1759..1829
+                     /number=14
+     exon            1830..1922
+                     /number=15
+     exon            1923..2013
+                     /number=16
+     exon            2014..2085
+                     /number=17
+     exon            2086..2211
+                     /number=18
+     exon            2212..2268
+                     /number=19
+     exon            2269..2343
+                     /number=20
+     exon            2344..2432
+                     /number=21
+     exon            2433..2510
+                     /number=22
+     exon            2511..2649
+                     /number=23
+     exon            2650..2759
+                     /number=24
+     exon            2760..2859
+                     /number=25
+     exon            2860..>2967
+                     /number=26
+BASE COUNT      797 a    635 c    710 g    825 t
+ORIGIN      
+        1 atgcagatgc tgctccacgc caattccctc ctcctcctcg cgccgacgac ctcgcggctc
+       61 tccgcctccg cctcgccggg gagatcgggg acggcccggc cgctgcctcc gccgcagggc
+      121 acgcgcattc cgcccgcccc gccgctcgcg ggacacggag gccgcccgcc gtcgccgcag
+      181 cctcgccgcg gacgcgatgg ggtgggggag gagtgcgccg ccgccgtggc ttcccagggg
+      241 ttcgtgacgg atgcgagggc atactgggtg acaaggtctc tgattgcctg gaatgtaaac
+      301 gatcaagaca cctccctctt cctgtatgca agcagagatg ccacgatgca cgtatctgat
+      361 ggggccattc atggttatga ttcaaaaatt gaactcgaac cagaacatgc cagccttcca
+      421 gacaatgtgg ctgagaagtt cccgtttatc agaagttaca gaaccttcag agtccctagc
+      481 tctgttgatg tcgcgagcct tgtgaaatgc caactagctg tcgcttctta tgatgctcat
+      541 gggaggcatc aagatgttac tggattgcaa ctacctggtg tattggatga catgtttgct
+      601 tatactggac cacttggtgc agttttcagt gataaagatg tcgacctcta cctttgggct
+      661 cctacagctc aggatgttag agtatgcttc tatgatggtc cagcaggacc tttactgcaa
+      721 actgtgcaac tcaaggagtt aaatggtgtt tggagtgtta ctgtaccaag atacccggag
+      781 aaccagtact atttgtatga agttaaggtt tatcatccta gtacatcaca agttgagaaa
+      841 tgtttagctg atgatcccta tgccagaggg ctttctgcaa atggcacacg gacttggttg
+      901 gttgacatta atagtgaaac tttaaagcca gcttcctggg atgaattgtc agatgaggag
+      961 ccaaaccttg agtccttctc tgacataagc atctatgagt tgcatatccg tgatttcagt
+     1021 gctcatgata gcacagtgga ctgtaactct cgtggaggat tcgtgcattt acatttcagg
+     1081 ttgttcagac ttaatttact gaacgatttc tgttcaccac ctataacaaa acatcctggt
+     1141 cgcattatgg aaactgtgat gcaggattca gcaggaatac gtcacctgag aaaattgtct
+     1201 gctgctggct tgactcatgt tcatttgtta ccaagctttc attttgctag tgttgatgac
+     1261 aacaaaagca attggaaatt tgttgatgag gctcagctgg caaaactccc tccaggttca
+     1321 gatgagcaac aagctgcaat agtatctatt cagcaagagg atccttacaa ttgggggtat
+     1381 gaccctgtac tctggggggt tccaaaagga agctatgcaa gtaacccaga tggtcctagt
+     1441 cgtattattg aataccgaca gatggttcag gccctgaatc gcataggtct tcgtgttgtc
+     1501 atggatgttg tatacaatca tttagactca agtggcccct ttggtgtctc ctcagtgctt
+     1561 gacaagattg ttcctggata ttaccttagg cggaacgtta atggtcagat cgaaaatagt
+     1621 gcggctatga acaatacagc aagtgagcat ttcatggttg ataggttaac cgtggatgac
+     1681 cttttaaatt gggcaataaa ttacaaagtt gatgggttca gatttgatct tatggggcat
+     1741 atcatgaaaa gtaccatgat aagagcaaaa tctgctattc gaagccttac gagggatgta
+     1801 catggagtgt atggttcaaa gatatacttg tatggtgaag gatgggactt tggtgaggtt
+     1861 gcacaaaata agcgtggaat aaatgcatcc cagattaata tgagtggcac aggaattggt
+     1921 agtttcaacg ataggatccg cgattctgtt aatgggggta atccatttgg taatcctcta
+     1981 cagcaaggct tttctaccgg tctgttcttg gagcctaatg gatattatca gggtaatgaa
+     2041 gcagatacca ggcgtgaact tgctacatat gctgatcaca tacagatcgg actagctggt
+     2101 aacctgaagg attatgtact aagaactcat actggagaag ctaagaaggg atcagacatt
+     2161 tacacttttg atggatcacc agttggctat acttcatccc ctgtagaaac tataaactat
+     2221 gtttctgctc atgataatga gactctgttt gatattgtca gtataaagac cccaattggc
+     2281 ctatcgattg atgagaaatg caggataaat catttggctt ctagcatgat cgcattatcc
+     2341 cagggaatac ctttcttcca tgctggtgat gagatactga gatctaagtc acttgatcga
+     2401 gattcatata actctggtga ttggtttaac aagcttgatt ttacatatga aacaaacaat
+     2461 tggggtgtag gacttcctcc aagagataag aatgaagaaa attggcattt gataaaacca
+     2521 agattggaaa acccatcttt cagacctttg aaaaatcaca ttctttctgc cttcgacaat
+     2581 tttgttgaca tcttgaagat cagatactcc tcaccgctct ttcgtttaag tacagcaagt
+     2641 gacattgagc aaagggttcg ctttcacaac acaggcccct cgatggtacc aggagttatt
+     2701 gtcatgagca ttaaagatgc tcaaaatgaa aaatgtaaaa tggctcagtt agataaaaac
+     2761 ttctcttatg tcgtgacgat cttcaatgtc tgtccacacg aagtgtctat tgaaatccat
+     2821 gatctcgctt cgttggggct tgaattgcat cctattcagg tgaattcatc ggatgctcta
+     2881 gtcaggcagt cagcatacga ggcgtccaaa ggtcgattca ccgtgccaag aagaacaact
+     2941 gcagtgttcg ttcaacctag atgttga
+//
+
+
+

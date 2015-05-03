@@ -1,0 +1,15 @@
+java GeneFile CTCL_AcH3-H3_0.5hr_rep1_Gene.tsv
+java GeneFile CTCL_AcH3-H3_0.5hr_rep2_Gene.tsv
+java GeneFile CTCL_AcH3-H3_0hr_rep1_Gene.tsv
+java GeneFile CTCL_AcH3-H3_0hr_rep2_Gene.tsv
+java GeneFile CTCL_AcH3-H3_4hr_rep1_Gene.tsv
+java GeneFile CTCL_AcH3-H3_4hr_rep2_Gene.tsv
+java GeneFile CTCL_AcH4-H4_0.5hr_Gene.tsv
+java GeneFile CTCL_AcH4-H4_0h4_Gene.tsv
+java GeneFile CTCL_AcH4-H4_4hr_Gene.tsv
+java GeneFile CTCL_Pol2-WCE_0.5hr_Gene.tsv
+java GeneFile CTCL_Pol2-WCE_0.5hr_rep1_Gene.tsv
+java GeneFile CTCL_Pol2-WCE_0h4_rep2_Gene.tsv
+java GeneFile CTCL_Pol2-WCE_0hr_rep1_Gene.tsv
+java GeneFile CTCL_Pol2-WCE_4hr_Gene.tsv
+java GeneFile CTCL_Pol2-WCE_4hr_rep1_Gene.tsv

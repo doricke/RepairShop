@@ -1,0 +1,1 @@
+jar cvmf RunBlast.mf RunBlast.jar *.class

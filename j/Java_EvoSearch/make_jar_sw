@@ -1,0 +1,1 @@
+jar cvmf AlignSwiss.mf AlignSwiss.jar *.class

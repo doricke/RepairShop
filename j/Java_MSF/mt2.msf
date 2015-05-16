@@ -1,0 +1,50 @@
+!!AA_MULTIPLE_ALIGNMENT 1.0
+PileUp of: @mt2.list
+
+ Symbol comparison table: GenRunData:blosum62.cmp  CompCheck: 1102
+
+                   GapWeight: 8
+             GapLengthWeight: 2 
+
+ mt2.msf  MSF: 85  Type: P  November 13, 2001 10:39  Check: 7235 ..
+
+ Name: mt2_musac        Len:    85  Check: 2638  Weight:  1.00
+ Name: mt2_nicpl        Len:    85  Check: 9120  Weight:  1.00
+ Name: mt2_brara        Len:    85  Check: 5107  Weight:  1.00
+ Name: mt2_brarp        Len:    85  Check: 5311  Weight:  1.00
+ Name: mt2_cicar        Len:    85  Check: 4232  Weight:  1.00
+ Name: mt2_vicfa        Len:    85  Check: 3688  Weight:  1.00
+ Name: mt2_ricco        Len:    85  Check: 1241  Weight:  1.00
+ Name: mt2_actch        Len:    85  Check: 5008  Weight:  1.00
+ Name: mt2_maldo        Len:    85  Check: 3495  Weight:  1.00
+ Name: mt2_nicgu        Len:    85  Check: 2000  Weight:  1.00
+ Name: mt2_fraan        Len:    85  Check: 5539  Weight:  1.00
+
+//
+
+           1                                                   50
+mt2_musac  ~MSCSGGNCG CGSSCSCGSG CGGCRMLTDL G.EERSSTSQ TMIMGVAP.Q 
+mt2_nicpl  ~MSCCGGSCG CGSGCKCGSG CGGCGMYPDL ....EKSTTF TIIQGVAP.M 
+mt2_brara  ~MSCCGGNCG CGSGCKCGNG CGGCKMYPDL GFSGESTTTE TFVFGVAPAM 
+mt2_brarp  ~MSCCGGNCG CGSGCKCGNG CGGCKMYPDL GFSGESTTTE TFVFGVAPAM 
+mt2_cicar  ~MSCCGGNCG CGSSCKCGSG CGGCKMYPDM SYT.EQTTSE TLVMGVASG. 
+mt2_vicfa  ~MSCCGGNCG CGSSCKCGSG CGGCKMYADL SYT.ESTTSE TLIMGVGSE. 
+mt2_ricco  ~MSCCGGNCG CGSGCKCGNG CGGCKMYPDM SFS.EKTTTE TLVLGVGAE. 
+mt2_actch  ~MSCCGGKCG CGSSCSCGSG CGGCGMYPDL SYS.EMTTTE TLIVGVAPQ. 
+mt2_maldo  MSSCCGGKCG CGSVCSCGSG CNGCGMAPDL SYM.EGSTTE TLVMGVAPQ. 
+mt2_nicgu  ~MSCCGGNCG CGSGC...NG CGGCKMYPDL SYN.ESTTTE TLVLGVGHE. 
+mt2_fraan  ~MSCCGGKCG CGAGCKCGSG CNGCGNYADI ..TEQSSASE TLVMGVVGTQ 
+
+           51                                  85
+mt2_musac  KGHFEEL.ET AAGSDN..GC KCGSNCTCDP CNCK~
+mt2_nicpl  .NNFEELGEK AAEGGN..GC KCGSNCTCDP CNC~~
+mt2_brara  KNQYEASGEG .V.AEN.DAC KCGSDCKCDP CTCK~
+mt2_brarp  KNQYEASGEG .V.AEN.DRC KCGSDCKCDP CTCK~
+mt2_cicar  KTQFEGAEMG .FGAEN.DGC KCGSNCTCNP CTCK~
+mt2_vicfa  KAQYESAEM. ..GAEN.DGC KCGANCTCNP CTCK~
+mt2_ricco  KAHFEGGEMG VVGAEE.GGC KCGDNCTCNP CTCK~
+mt2_actch  KTYFEGSEMG V..AAE.NGC KCGSDCKCDP CTCK~
+mt2_maldo  KSHMEASEMG V..AAE.NGC KCGDNCTCNP CNCK~
+mt2_nicgu  KTSFGTMEMG ESPAAE.NGC KCGSECKCNP CACSK
+mt2_fraan  KLNYGQAEAG VATEGSCSGC KC.VYCTCDP CTCK~
+

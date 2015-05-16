@@ -1,0 +1,1 @@
+jar cvmf TfbsMerge.mf TfbsMerge.jar *.class

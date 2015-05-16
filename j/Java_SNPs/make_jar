@@ -1,0 +1,1 @@
+jar cvmf SNPs.mf SNPs.jar *.class 

@@ -1,0 +1,1 @@
+jar cvmf TfbsCombine.mf TfbsCombine.jar *.class

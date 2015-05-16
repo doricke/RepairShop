@@ -1,0 +1,1 @@
+jar cvmf TfbsNormalize.mf TfbsNormalize.jar *.class

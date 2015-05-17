@@ -1,0 +1,1 @@
+jar cvmf FindGenomicSSRs.mf FindGenomicSSRs.jar *.class

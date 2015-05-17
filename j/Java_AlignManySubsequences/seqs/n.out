@@ -1,0 +1,22 @@
+Processing: sp-P00740-FA9_HUMAN
+Processing: sp-P00742-FA10_HUMAN
+best_count = 44 gi|119761|sp|P00742|FA10_HUMAN	f 0	s 0	44	9%	0
+>19 super = 1
+Processing: sp-P04070-PRTC_HUMAN
+best_count = 25 gi|131067|sp|P04070|PRTC_HUMAN	f 0	s 0	25	5%	1
+>19 super = 1
+Processing: sp-P08709-FA7_HUMAN
+best_count = 33 gi|119766|sp|P08709|FA7_HUMAN	f 0	s 0	33	7%	1
+>19 super = 1
+Processing: sp-P13726-TF_HUMAN
+best_count = 3 gi|135666|sp|P13726|TF_HUMAN	f 0	s 0	3	1%	3
+<=9 new super = 2
+
+5 protein sequences
+5 protein families
+
+0	gi|119772|sp|P00740|FA9_HUMAN	f 1	s 1	0	0%	0
+1	gi|119761|sp|P00742|FA10_HUMAN	f 2	s 1	44	9%	0
+2	gi|131067|sp|P04070|PRTC_HUMAN	f 3	s 1	25	5%	1
+3	gi|119766|sp|P08709|FA7_HUMAN	f 4	s 1	33	7%	1
+4	gi|135666|sp|P13726|TF_HUMAN	f 5	s 2	3	1%	3

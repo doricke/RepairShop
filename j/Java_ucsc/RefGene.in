@@ -1,0 +1,10 @@
+  String chromosome = "";		// chromosome (e.g., "chr1", ...)
+  int  coding_end = 0;			// Coding region end
+  int  coding_start = 0;		// Coding region start
+  short  exon_count = 0;		// Number of exons
+  Vector exon_ends = new Vector ();	// End of exons
+  Vector exon_starts = new Vector ();	// Start of exons
+  String name = "";			// name
+  char strand = ' ';			// strand ('+' or '-')
+  int  transcript_end = 0;		// End of transcript
+  int  transcript_start = 0;		// Start of transcript

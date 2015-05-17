@@ -1,0 +1,1 @@
+jar cvmf FindFastaSSRs.mf FindFastaSSRs.jar *.class

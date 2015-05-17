@@ -1,0 +1,3920 @@
+Processing: sp--FA10_TROCA_1
+Words for: gi|6225307|sp||FA10_TROCA_1
+	word	AEG
+	word	AES
+	word	ARE
+	word	ARN
+	word	CAE
+	word	CEK
+	word	CGR
+	word	CHY
+	word	CIE
+	word	CKD
+	word	CKR
+	word	CLP
+	word	CRV
+	word	CSC
+	word	CSK
+	word	CSS
+	word	CTC
+	word	CVA
+	word	CWH
+	word	DFS
+	word	DGD
+	word	DGH
+	word	DGI
+	word	DNE
+	word	DNG
+	word	DQC
+	word	EAR
+	word	ECI
+	word	EDN
+	word	EEA
+	word	EEI
+	word	EEK
+	word	EGD
+	word	EGK
+	word	EIR
+	word	EKC
+	word	EKT
+	word	EKV
+	word	ERE
+	word	ESY
+	word	ETF
+	word	ETQ
+	word	EVF
+	word	FCK
+	word	FED
+	word	FEE
+	word	FSC
+	word	FWN
+	word	GDF
+	word	GDQ
+	word	GHS
+	word	GIG
+	word	GKN
+	word	GNC
+	word	GNI
+	word	GRN
+	word	GSY
+	word	GTC
+	word	GVD
+	word	HFC
+	word	HSC
+	word	HYR
+	word	IEE
+	word	IER
+	word	IGS
+	word	IKA
+	word	IRP
+	word	KAR
+	word	KCS
+	word	KDG
+	word	KEE
+	word	KNC
+	word	KRV
+	word	KTE
+	word	KVL
+	word	LFE
+	word	LGV
+	word	LPN
+	word	LYQ
+	word	NCE
+	word	NCW
+	word	NEK
+	word	NGN
+	word	NIE
+	word	NIK
+	word	NPC
+	word	NSL
+	word	NVY
+	word	NYE
+	word	PCH
+	word	PGN
+	word	PNY
+	word	QCS
+	word	QCS
+	word	QSC
+	word	QSE
+	word	REC
+	word	REV
+	word	RGT
+	word	RLG
+	word	RNI
+	word	RNK
+	word	RPG
+	word	RVD
+	word	RVQ
+	word	SCA
+	word	SCG
+	word	SCR
+	word	SCV
+	word	SET
+	word	SKE
+	word	SLF
+	word	SNP
+	word	SNS
+	word	SSN
+	word	SYR
+	word	SYT
+	word	TCK
+	word	TCL
+	word	TCT
+	word	TET
+	word	TFW
+	word	TQC
+	word	VAE
+	word	VDG
+	word	VDG
+	word	VDN
+	word	VFE
+	word	VLY
+	word	VQS
+	word	VYV
+	word	WHF
+	word	WNV
+	word	YEG
+	word	YQS
+	word	YRG
+	word	YRL
+	word	YTC
+	word	YVD
+
+findBest: total = 0
+Processing: sp--FA10_TROCA_2
+Words for: gi|6225308|sp||FA10_TROCA_2
+	word	AAH
+	word	ACL
+	word	ACQ
+	word	ADF
+	word	AGY
+	word	AHC
+	word	AII
+	word	ANE
+	word	ARK
+	word	AVL
+	word	AYD
+	word	AYR
+	word	CAG
+	word	CAR
+	word	CGG
+	word	CIN
+	word	CKL
+	word	CLP
+	word	CML
+	word	CPW
+	word	CQG
+	word	DAC
+	word	DCK
+	word	DFA
+	word	DFR
+	word	DIA
+	word	DKI
+	word	DRH
+	word	DRV
+	word	DSG
+	word	DSG
+	word	DTH
+	word	DTL
+	word	DYD
+	word	ECP
+	word	EGC
+	word	EKG
+	word	ENV
+	word	ETR
+	word	EVF
+	word	EVL
+	word	FAN
+	word	FCA
+	word	FCG
+	word	FDR
+	word	FGR
+	word	FIP
+	word	FIT
+	word	FKQ
+	word	FRI
+	word	FSE
+	word	FVP
+	word	GCA
+	word	GDS
+	word	GEC
+	word	GEG
+	word	GEV
+	word	GFG
+	word	GGP
+	word	GGT
+	word	GII
+	word	GIV
+	word	GKY
+	word	GMD
+	word	GPH
+	word	GRI
+	word	GTI
+	word	GVY
+	word	GYD
+	word	HCI
+	word	HFI
+	word	HIT
+	word	HQN
+	word	HTC
+	word	HTK
+	word	HVL
+	word	IAI
+	word	IHV
+	word	IIR
+	word	IIS
+	word	IKK
+	word	ILS
+	word	IMS
+	word	INE
+	word	INQ
+	word	IPW
+	word	IQF
+	word	IQF
+	word	IRM
+	word	ISW
+	word	ITA
+	word	ITG
+	word	ITQ
+	word	ITV
+	word	IVN
+	word	IVS
+	word	IYV
+	word	KET
+	word	KFI
+	word	KFV
+	word	KGE
+	word	KGK
+	word	KIM
+	word	KIY
+	word	KKI
+	word	KLG
+	word	KQD
+	word	KQP
+	word	KSV
+	word	KTP
+	word	KVI
+	word	KVS
+	word	KYG
+	word	LGE
+	word	LIN
+	word	LKV
+	word	LLS
+	word	LMK
+	word	LPQ
+	word	LPT
+	word	LSP
+	word	LSS
+	word	LSV
+	word	LTA
+	word	MDC
+	word	MFC
+	word	MKQ
+	word	MKT
+	word	MLS
+	word	MSL
+	word	NEK
+	word	NEV
+	word	NFD
+	word	NGM
+	word	NMF
+	word	NQT
+	word	NTL
+	word	NVV
+	word	NYY
+	word	PAC
+	word	PHI
+	word	PIH
+	word	PIQ
+	word	PNY
+	word	PPN
+	word	PQD
+	word	PTA
+	word	PTS
+	word	PWI
+	word	PWQ
+	word	PYV
+	word	QAV
+	word	QDA
+	word	QDS
+	word	QFK
+	word	QFS
+	word	QGD
+	word	QNF
+	word	QNM
+	word	QPT
+	word	QTK
+	word	RDT
+	word	RHT
+	word	RIQ
+	word	RIT
+	word	RKG
+	word	RLL
+	word	RMK
+	word	RRL
+	word	RVA
+	word	SDF
+	word	SEN
+	word	SGF
+	word	SGG
+	word	SGI
+	word	SKF
+	word	SLK
+	word	SNT
+	word	SPI
+	word	SSD
+	word	SVD
+	word	SVK
+	word	SWG
+	word	TAA
+	word	TAD
+	word	TAY
+	word	TCM
+	word	TGI
+	word	THF
+	word	TIL
+	word	TKF
+	word	TKS
+	word	TKV
+	word	TLK
+	word	TLP
+	word	TPI
+	word	TQN
+	word	TRR
+	word	TSN
+	word	TVP
+	word	VAY
+	word	VDK
+	word	VDR
+	word	VFC
+	word	VHQ
+	word	VHT
+	word	VIT
+	word	VKE
+	word	VLI
+	word	VLM
+	word	VLT
+	word	VNG
+	word	VPA
+	word	VPP
+	word	VPY
+	word	VSG
+	word	VSK
+	word	VVP
+	word	VYT
+	word	WGE
+	word	WIK
+	word	WQA
+	word	YDI
+	word	YDT
+	word	YDY
+	word	YGV
+	word	YRD
+	word	YTK
+	word	YVD
+	word	YVH
+	word	YVH
+	word	YYV
+	word	YYY
+
+findBest: total = 1
+	CLP
+	EVF
+	NEK
+	PNY
+	YVD
+i = 0, count = 5
+best_count = 5, best_match = 0
+Processing: sp-O19045-FA10_RABIT
+Words for: gi|3913632|sp|O19045|FA10_RABIT
+	word	AAG
+	word	AAH
+	word	AAL
+	word	AAN
+	word	ACL
+	word	ACQ
+	word	AEA
+	word	AES
+	word	AGL
+	word	AGT
+	word	AGY
+	word	AHC
+	word	AKR
+	word	ALA
+	word	ALE
+	word	ALL
+	word	AND
+	word	ANP
+	word	ANS
+	word	APA
+	word	APG
+	word	AQK
+	word	ARA
+	word	ARK
+	word	ARP
+	word	ART
+	word	ASG
+	word	ATE
+	word	ATN
+	word	AVL
+	word	AVP
+	word	CAG
+	word	CAR
+	word	CAS
+	word	CDQ
+	word	CEP
+	word	CES
+	word	CGG
+	word	CGK
+	word	CIS
+	word	CKD
+	word	CKE
+	word	CKR
+	word	CLH
+	word	CLP
+	word	CME
+	word	CPW
+	word	CQG
+	word	CQN
+	word	CRD
+	word	CSC
+	word	CSC
+	word	CSL
+	word	CSY
+	word	CVE
+	word	DAC
+	word	DAR
+	word	DCE
+	word	DCR
+	word	DDG
+	word	DDS
+	word	DFD
+	word	DGD
+	word	DGE
+	word	DGL
+	word	DGN
+	word	DIA
+	word	DNG
+	word	DNG
+	word	DQC
+	word	DQF
+	word	DRD
+	word	DRE
+	word	DRN
+	word	DSG
+	word	DSP
+	word	DSS
+	word	DTE
+	word	DTY
+	word	DVL
+	word	DWA
+	word	EAA
+	word	EAL
+	word	EAP
+	word	ECM
+	word	ECP
+	word	EDA
+	word	EDD
+	word	EDR
+	word	EEA
+	word	EEE
+	word	EEG
+	word	EEL
+	word	EEN
+	word	EEN
+	word	EEN
+	word	EET
+	word	EFW
+	word	EGC
+	word	EGF
+	word	EGN
+	word	EGP
+	word	EGQ
+	word	EGY
+	word	EHE
+	word	EKS
+	word	EKT
+	word	ELF
+	word	ELK
+	word	EMG
+	word	ENC
+	word	ENE
+	word	ENP
+	word	ENS
+	word	EPP
+	word	EPV
+	word	EQQ
+	word	ERE
+	word	ESN
+	word	EST
+	word	ETH
+	word	ETY
+	word	EVE
+	word	EVF
+	word	EVP
+	word	EVV
+	word	EYH
+	word	FCA
+	word	FCG
+	word	FCK
+	word	FDI
+	word	FED
+	word	FGR
+	word	FGV
+	word	FIS
+	word	FKV
+	word	FLE
+	word	FLK
+	word	FNL
+	word	FPC
+	word	FRD
+	word	FRR
+	word	FTI
+	word	FVK
+	word	FVT
+	word	FWN
+	word	GAA
+	word	GCA
+	word	GCD
+	word	GDN
+	word	GDQ
+	word	GDR
+	word	GDS
+	word	GEC
+	word	GEG
+	word	GFC
+	word	GFG
+	word	GGC
+	word	GGP
+	word	GGQ
+	word	GGT
+	word	GIV
+	word	GIV
+	word	GKF
+	word	GKS
+	word	GKV
+	word	GLG
+	word	GLL
+	word	GMY
+	word	GNE
+	word	GNL
+	word	GNL
+	word	GPE
+	word	GPH
+	word	GPP
+	word	GPT
+	word	GQD
+	word	GQD
+	word	GRL
+	word	GRT
+	word	GRW
+	word	GSP
+	word	GSS
+	word	GTC
+	word	GTI
+	word	GTP
+	word	GVY
+	word	GYD
+	word	GYE
+	word	GYT
+	word	HCL
+	word	HEE
+	word	HEM
+	word	HEV
+	word	HLV
+	word	HNR
+	word	HQA
+	word	HVL
+	word	HVT
+	word	IAV
+	word	IEK
+	word	IKG
+	word	ILS
+	word	ISR
+	word	IST
+	word	ITF
+	word	ITQ
+	word	IVG
+	word	IVS
+	word	IVS
+	word	KDG
+	word	KDW
+	word	KEE
+	word	KET
+	word	KFG
+	word	KGK
+	word	KGN
+	word	KGS
+	word	KHN
+	word	KKG
+	word	KLC
+	word	KML
+	word	KRF
+	word	KRS
+	word	KSC
+	word	KSM
+	word	KTG
+	word	KTN
+	word	KTP
+	word	KVR
+	word	KVS
+	word	KVT
+	word	KWI
+	word	KYV
+	word	LAG
+	word	LAR
+	word	LCS
+	word	LCS
+	word	LDN
+	word	LDS
+	word	LEE
+	word	LER
+	word	LEV
+	word	LEV
+	word	LFP
+	word	LGA
+	word	LGD
+	word	LGM
+	word	LGR
+	word	LHL
+	word	LHQ
+	word	LKK
+	word	LKM
+	word	LKT
+	word	LKW
+	word	LLD
+	word	LLG
+	word	LLL
+	word	LLS
+	word	LLV
+	word	LMA
+	word	LPQ
+	word	LRL
+	word	LSE
+	word	LSG
+	word	LST
+	word	LTA
+	word	LTA
+	word	LVL
+	word	LVN
+	word	LVR
+	word	MAN
+	word	MAQ
+	word	MEE
+	word	MFC
+	word	MGR
+	word	MLE
+	word	MRA
+	word	MYT
+	word	NCS
+	word	NDV
+	word	NEE
+	word	NEE
+	word	NEF
+	word	NEG
+	word	NFL
+	word	NGG
+	word	NGK
+	word	NKY
+	word	NLE
+	word	NLL
+	word	NLT
+	word	NMF
+	word	NPC
+	word	NPF
+	word	NPL
+	word	NQG
+	word	NRF
+	word	NSC
+	word	NSF
+	word	NSS
+	word	NSV
+	word	NVA
+	word	PAC
+	word	PAT
+	word	PCG
+	word	PCQ
+	word	PEA
+	word	PED
+	word	PED
+	word	PEP
+	word	PEQ
+	word	PFN
+	word	PGP
+	word	PGP
+	word	PHV
+	word	PIT
+	word	PLH
+	word	PPE
+	word	PPE
+	word	PPP
+	word	PQK
+	word	PTI
+	word	PTQ
+	word	PVA
+	word	PVT
+	word	PWQ
+	word	PYV
+	word	QAK
+	word	QAL
+	word	QCE
+	word	QDC
+	word	QDC
+	word	QDD
+	word	QFC
+	word	QGD
+	word	QGT
+	word	QKD
+	word	QKT
+	word	QNM
+	word	QNQ
+	word	QPT
+	word	QQD
+	word	RAA
+	word	RAN
+	word	RAR
+	word	RAV
+	word	RDG
+	word	RDT
+	word	RDT
+	word	REC
+	word	REK
+	word	RFK
+	word	RFR
+	word	RFV
+	word	RIV
+	word	RKG
+	word	RKL
+	word	RLK
+	word	RLS
+	word	RNS
+	word	RNV
+	word	RPE
+	word	RRA
+	word	RRA
+	word	RRN
+	word	RRS
+	word	RSP
+	word	RSS
+	word	RTH
+	word	RTR
+	word	RVG
+	word	RWR
+	word	SCA
+	word	SCI
+	word	SCK
+	word	SCV
+	word	SEG
+	word	SEY
+	word	SFL
+	word	SFT
+	word	SGF
+	word	SGG
+	word	SGS
+	word	SGY
+	word	SLD
+	word	SLV
+	word	SMR
+	word	SNF
+	word	SNP
+	word	SPA
+	word	SPE
+	word	SPS
+	word	SRR
+	word	SSE
+	word	SSF
+	word	SSL
+	word	SSS
+	word	SSS
+	word	SSV
+	word	STE
+	word	STL
+	word	STT
+	word	SVF
+	word	SVL
+	word	SWG
+	word	SYE
+	word	TAA
+	word	TAT
+	word	TCK
+	word	TCS
+	word	TEH
+	word	TEL
+	word	TEN
+	word	TFR
+	word	TGI
+	word	TGI
+	word	THE
+	word	THE
+	word	TIK
+	word	TIL
+	word	TIT
+	word	TKV
+	word	TLG
+	word	TLG
+	word	TLK
+	word	TLM
+	word	TNE
+	word	TNS
+	word	TPG
+	word	TPI
+	word	TQN
+	word	TQP
+	word	TRF
+	word	TRK
+	word	TRR
+	word	TTL
+	word	TYD
+	word	TYF
+	word	VAE
+	word	VAP
+	word	VDG
+	word	VDR
+	word	VEG
+	word	VEV
+	word	VFE
+	word	VFI
+	word	VGD
+	word	VGG
+	word	VKE
+	word	VKH
+	word	VLA
+	word	VLC
+	word	VLL
+	word	VLR
+	word	VLT
+	word	VNE
+	word	VPV
+	word	VPY
+	word	VRI
+	word	VRV
+	word	VSG
+	word	VSN
+	word	VSW
+	word	VTG
+	word	VTL
+	word	VTR
+	word	VTR
+	word	VVK
+	word	VVV
+	word	VYT
+	word	WAE
+	word	WGE
+	word	WIE
+	word	WNK
+	word	WQA
+	word	WRR
+	word	YDA
+	word	YDF
+	word	YEE
+	word	YEG
+	word	YFV
+	word	YHV
+	word	YTC
+	word	YTK
+	word	YTL
+	word	YVD
+	word	YVD
+
+findBest: total = 2
+	AES
+	CKD
+	CKR
+	CLP
+	CSC
+	DGD
+	DNG
+	DQC
+	EEA
+	EKT
+	ERE
+	EVF
+	FCK
+	FED
+	FWN
+	GDQ
+	GTC
+	KDG
+	KEE
+	NPC
+	REC
+	SCA
+	SCV
+	SNP
+	TCK
+	VAE
+	VDG
+	VFE
+	YEG
+	YTC
+	YVD
+i = 0, count = 31
+	AAH
+	ACL
+	ACQ
+	AGY
+	AHC
+	ARK
+	AVL
+	CAG
+	CAR
+	CGG
+	CLP
+	CPW
+	CQG
+	DAC
+	DIA
+	DSG
+	ECP
+	EGC
+	EVF
+	FCA
+	FCG
+	FGR
+	GCA
+	GDS
+	GEC
+	GEG
+	GFG
+	GGP
+	GGT
+	GIV
+	GPH
+	GTI
+	GVY
+	GYD
+	HVL
+	ILS
+	ITQ
+	IVS
+	KET
+	KGK
+	KTP
+	KVS
+	LLS
+	LPQ
+	LTA
+	MFC
+	NMF
+	PAC
+	PWQ
+	PYV
+	QGD
+	QNM
+	QPT
+	RDT
+	RKG
+	SGF
+	SGG
+	SWG
+	TAA
+	TGI
+	TIL
+	TKV
+	TLK
+	TPI
+	TQN
+	TRR
+	VDR
+	VKE
+	VLT
+	VPY
+	VSG
+	VYT
+	WGE
+	WQA
+	YTK
+	YVD
+i = 1, count = 76
+best_count = 76, best_match = 1
+Processing: sp-P00742-FA10_HUMAN
+Words for: gi|119761|sp|P00742|FA10_HUMAN
+	word	AAD
+	word	AAH
+	word	ACI
+	word	ACL
+	word	ACQ
+	word	ADL
+	word	ADN
+	word	AES
+	word	AFL
+	word	AGL
+	word	AGY
+	word	AHC
+	word	AKR
+	word	AKS
+	word	ALL
+	word	ANN
+	word	ANS
+	word	APA
+	word	APD
+	word	APE
+	word	AQA
+	word	ARE
+	word	ARG
+	word	ARK
+	word	ARV
+	word	ASL
+	word	ATS
+	word	AVH
+	word	AVL
+	word	CAG
+	word	CAR
+	word	CAR
+	word	CDQ
+	word	CEL
+	word	CET
+	word	CGG
+	word	CGK
+	word	CHE
+	word	CIP
+	word	CKD
+	word	CKD
+	word	CKL
+	word	CLE
+	word	CLP
+	word	CLY
+	word	CME
+	word	CPW
+	word	CQG
+	word	CQN
+	word	CSC
+	word	CSL
+	word	CSY
+	word	CTC
+	word	DAA
+	word	DAC
+	word	DCD
+	word	DFD
+	word	DFN
+	word	DGD
+	word	DGE
+	word	DGL
+	word	DIA
+	word	DKT
+	word	DLD
+	word	DLL
+	word	DNG
+	word	DNG
+	word	DNN
+	word	DPT
+	word	DQC
+	word	DQF
+	word	DRN
+	word	DRN
+	word	DRS
+	word	DSD
+	word	DSG
+	word	DSI
+	word	DTK
+	word	DTY
+	word	DWA
+	word	EAP
+	word	EAR
+	word	EAV
+	word	ECK
+	word	ECM
+	word	ECP
+	word	EDA
+	word	EDS
+	word	EEA
+	word	EEG
+	word	EEM
+	word	EEN
+	word	EEQ
+	word	EET
+	word	EFW
+	word	EFY
+	word	EGC
+	word	EGF
+	word	EGF
+	word	EGG
+	word	EGK
+	word	EKG
+	word	ELF
+	word	EMK
+	word	ENE
+	word	ENP
+	word	EQA
+	word	EQE
+	word	EQN
+	word	ERD
+	word	ERE
+	word	ERG
+	word	ERR
+	word	ESL
+	word	EST
+	word	ETC
+	word	ETS
+	word	ETY
+	word	EVE
+	word	EVF
+	word	EVI
+	word	EVP
+	word	EVV
+	word	EYT
+	word	FCA
+	word	FCG
+	word	FCH
+	word	FDI
+	word	FDL
+	word	FED
+	word	FEG
+	word	FGR
+	word	FII
+	word	FIR
+	word	FKD
+	word	FKV
+	word	FLE
+	word	FLK
+	word	FNQ
+	word	FRM
+	word	FTK
+	word	FTR
+	word	FVT
+	word	FWN
+	word	FYI
+	word	GCA
+	word	GDC
+	word	GDN
+	word	GDQ
+	word	GDR
+	word	GDS
+	word	GEA
+	word	GEA
+	word	GEC
+	word	GEG
+	word	GES
+	word	GEY
+	word	GFC
+	word	GFE
+	word	GFG
+	word	GGE
+	word	GGP
+	word	GGQ
+	word	GGT
+	word	GHL
+	word	GIV
+	word	GIV
+	word	GIY
+	word	GKA
+	word	GKC
+	word	GKN
+	word	GKQ
+	word	GKY
+	word	GLG
+	word	GLL
+	word	GLP
+	word	GPH
+	word	GPY
+	word	GQE
+	word	GRP
+	word	GRQ
+	word	GRT
+	word	GTI
+	word	GYD
+	word	GYT
+	word	HAP
+	word	HCL
+	word	HEE
+	word	HEK
+	word	HEV
+	word	HLE
+	word	HLV
+	word	HNR
+	word	HVT
+	word	IAV
+	word	IDR
+	word	IIT
+	word	IKH
+	word	ILA
+	word	ILS
+	word	ILT
+	word	INE
+	word	IPT
+	word	IRR
+	word	ITF
+	word	ITQ
+	word	ITS
+	word	ITW
+	word	IVG
+	word	IVS
+	word	IVS
+	word	IYT
+	word	KAC
+	word	KAK
+	word	KCK
+	word	KDG
+	word	KDG
+	word	KDG
+	word	KDT
+	word	KET
+	word	KGH
+	word	KGK
+	word	KGR
+	word	KHN
+	word	KKG
+	word	KLC
+	word	KLS
+	word	KML
+	word	KNC
+	word	KPY
+	word	KQE
+	word	KQT
+	word	KRF
+	word	KRS
+	word	KSH
+	word	KTG
+	word	KTN
+	word	KTP
+	word	KTR
+	word	KVR
+	word	KVT
+	word	KWI
+	word	KYG
+	word	KYK
+	word	LAD
+	word	LAG
+	word	LAR
+	word	LCS
+	word	LDF
+	word	LDN
+	word	LDP
+	word	LEE
+	word	LEG
+	word	LER
+	word	LER
+	word	LEV
+	word	LFI
+	word	LFT
+	word	LGE
+	word	LGE
+	word	LHL
+	word	LIN
+	word	LKM
+	word	LKT
+	word	LKW
+	word	LLD
+	word	LLG
+	word	LLI
+	word	LLL
+	word	LLL
+	word	LLS
+	word	LMT
+	word	LPE
+	word	LPK
+	word	LRL
+	word	LSA
+	word	LSE
+	word	LSS
+	word	LTA
+	word	LTR
+	word	LVL
+	word	LYQ
+	word	MEE
+	word	MFC
+	word	MGR
+	word	MKK
+	word	MKT
+	word	MLE
+	word	MNV
+	word	MTQ
+	word	NCE
+	word	NEE
+	word	NEF
+	word	NEG
+	word	NGD
+	word	NGK
+	word	NIL
+	word	NKY
+	word	NLT
+	word	NMF
+	word	NNI
+	word	NNL
+	word	NPF
+	word	NQG
+	word	NQT
+	word	NRF
+	word	NSC
+	word	NSF
+	word	NSV
+	word	NTE
+	word	NVA
+	word	PAC
+	word	PCG
+	word	PCQ
+	word	PDS
+	word	PER
+	word	PER
+	word	PEV
+	word	PFD
+	word	PHV
+	word	PIT
+	word	PKA
+	word	PLH
+	word	PLK
+	word	PTE
+	word	PTG
+	word	PWQ
+	word	PYD
+	word	PYP
+	word	PYV
+	word	QAK
+	word	QAL
+	word	QAN
+	word	QAT
+	word	QCE
+	word	QEC
+	word	QED
+	word	QEE
+	word	QFC
+	word	QGD
+	word	QGK
+	word	QKT
+	word	QNM
+	word	QNQ
+	word	QNS
+	word	QPE
+	word	QST
+	word	QTL
+	word	QTQ
+	word	RAN
+	word	RDW
+	word	REC
+	word	REQ
+	word	REV
+	word	RFK
+	word	RFK
+	word	RFT
+	word	RGD
+	word	RGL
+	word	RGY
+	word	RIV
+	word	RKG
+	word	RKL
+	word	RKR
+	word	RLK
+	word	RLK
+	word	RMN
+	word	RNS
+	word	RNT
+	word	RPL
+	word	RQS
+	word	RRE
+	word	RRK
+	word	RSM
+	word	RSV
+	word	RTH
+	word	RVG
+	word	RVT
+	word	SAS
+	word	SCA
+	word	SCK
+	word	SDK
+	word	SEF
+	word	SFI
+	word	SFL
+	word	SGE
+	word	SGF
+	word	SGG
+	word	SHA
+	word	SIT
+	word	SLA
+	word	SLD
+	word	SLF
+	word	SMK
+	word	SPC
+	word	SPL
+	word	SSF
+	word	SSG
+	word	SSP
+	word	SSS
+	word	SSS
+	word	STL
+	word	STR
+	word	SVA
+	word	SVV
+	word	SWG
+	word	SYE
+	word	TAA
+	word	TAF
+	word	TCL
+	word	TCS
+	word	TCT
+	word	TEN
+	word	TEQ
+	word	TFR
+	word	TGI
+	word	TGI
+	word	TGP
+	word	THE
+	word	TIL
+	word	TKE
+	word	TKQ
+	word	TKV
+	word	TLA
+	word	TLE
+	word	TLM
+	word	TNE
+	word	TPI
+	word	TQK
+	word	TQN
+	word	TQP
+	word	TRA
+	word	TRF
+	word	TRG
+	word	TRI
+	word	TRK
+	word	TRL
+	word	TSP
+	word	TSS
+	word	TSS
+	word	TWK
+	word	TYD
+	word	TYF
+	word	VAP
+	word	VAQ
+	word	VCS
+	word	VDR
+	word	VEV
+	word	VFE
+	word	VGD
+	word	VGG
+	word	VHE
+	word	VIK
+	word	VIT
+	word	VLL
+	word	VLR
+	word	VPY
+	word	VRV
+	word	VSG
+	word	VSW
+	word	VTA
+	word	VTG
+	word	VTR
+	word	VTR
+	word	VVC
+	word	VVI
+	word	WAE
+	word	WGE
+	word	WID
+	word	WKP
+	word	WNK
+	word	WQA
+	word	YDA
+	word	YDF
+	word	YDT
+	word	YEE
+	word	YFV
+	word	YGI
+	word	YIL
+	word	YKD
+	word	YPC
+	word	YQA
+	word	YTC
+	word	YTK
+	word	YTL
+	word	YVD
+
+findBest: total = 3
+	AES
+	ARE
+	CKD
+	CLP
+	CSC
+	CTC
+	DGD
+	DNG
+	DQC
+	EAR
+	EEA
+	EGK
+	ERE
+	EVF
+	FED
+	FWN
+	GDQ
+	GKN
+	KDG
+	KNC
+	LYQ
+	NCE
+	REC
+	REV
+	SCA
+	SLF
+	TCL
+	TCT
+	VFE
+	YTC
+	YVD
+i = 0, count = 31
+	AAH
+	ACL
+	ACQ
+	AGY
+	AHC
+	ARK
+	AVL
+	CAG
+	CAR
+	CGG
+	CKL
+	CLP
+	CPW
+	CQG
+	DAC
+	DIA
+	DSG
+	ECP
+	EGC
+	EKG
+	EVF
+	FCA
+	FCG
+	FGR
+	GCA
+	GDS
+	GEC
+	GEG
+	GFG
+	GGP
+	GGT
+	GIV
+	GKY
+	GPH
+	GTI
+	GYD
+	ILS
+	INE
+	ITQ
+	IVS
+	KET
+	KGK
+	KTP
+	KYG
+	LGE
+	LIN
+	LLS
+	LSS
+	LTA
+	MFC
+	MKT
+	NMF
+	NQT
+	PAC
+	PWQ
+	PYV
+	QGD
+	QNM
+	RKG
+	SGF
+	SGG
+	SWG
+	TAA
+	TGI
+	TIL
+	TKV
+	TPI
+	TQN
+	VDR
+	VIT
+	VPY
+	VSG
+	WGE
+	WQA
+	YDT
+	YTK
+	YVD
+i = 1, count = 77
+	AAH
+	ACL
+	ACQ
+	AES
+	AGL
+	AGY
+	AHC
+	AKR
+	ALL
+	ANS
+	APA
+	ARK
+	AVL
+	CAG
+	CAR
+	CDQ
+	CGG
+	CGK
+	CKD
+	CLP
+	CME
+	CPW
+	CQG
+	CQN
+	CSC
+	CSL
+	CSY
+	DAC
+	DFD
+	DGD
+	DGE
+	DGL
+	DIA
+	DNG
+	DNG
+	DQC
+	DQF
+	DRN
+	DSG
+	DTY
+	DWA
+	EAP
+	ECM
+	ECP
+	EDA
+	EEA
+	EEG
+	EEN
+	EET
+	EFW
+	EGC
+	EGF
+	ELF
+	ENE
+	ENP
+	ERE
+	EST
+	ETY
+	EVE
+	EVF
+	EVP
+	EVV
+	FCA
+	FCG
+	FDI
+	FED
+	FGR
+	FKV
+	FLE
+	FLK
+	FVT
+	FWN
+	GCA
+	GDN
+	GDQ
+	GDR
+	GDS
+	GEC
+	GEG
+	GFC
+	GFG
+	GGP
+	GGQ
+	GGT
+	GIV
+	GIV
+	GLG
+	GLL
+	GPH
+	GRT
+	GTI
+	GYD
+	GYT
+	HCL
+	HEE
+	HEV
+	HLV
+	HNR
+	HVT
+	IAV
+	ILS
+	ITF
+	ITQ
+	IVG
+	IVS
+	IVS
+	KDG
+	KET
+	KGK
+	KHN
+	KKG
+	KLC
+	KML
+	KRF
+	KRS
+	KTG
+	KTN
+	KTP
+	KVR
+	KVT
+	KWI
+	LAG
+	LAR
+	LCS
+	LDN
+	LEE
+	LER
+	LEV
+	LHL
+	LKM
+	LKT
+	LKW
+	LLD
+	LLG
+	LLL
+	LLS
+	LRL
+	LSE
+	LTA
+	LVL
+	MEE
+	MFC
+	MGR
+	MLE
+	NEE
+	NEF
+	NEG
+	NGK
+	NKY
+	NLT
+	NMF
+	NPF
+	NQG
+	NRF
+	NSC
+	NSF
+	NSV
+	NVA
+	PAC
+	PCG
+	PCQ
+	PHV
+	PIT
+	PLH
+	PWQ
+	PYV
+	QAK
+	QAL
+	QCE
+	QFC
+	QGD
+	QKT
+	QNM
+	QNQ
+	RAN
+	REC
+	RFK
+	RIV
+	RKG
+	RKL
+	RLK
+	RNS
+	RTH
+	RVG
+	SCA
+	SCK
+	SFL
+	SGF
+	SGG
+	SLD
+	SSF
+	SSS
+	SSS
+	STL
+	SWG
+	SYE
+	TAA
+	TCS
+	TEN
+	TFR
+	TGI
+	TGI
+	THE
+	TIL
+	TKV
+	TLM
+	TNE
+	TPI
+	TQN
+	TQP
+	TRF
+	TRK
+	TYD
+	TYF
+	VAP
+	VDR
+	VEV
+	VFE
+	VGD
+	VGG
+	VLL
+	VLR
+	VPY
+	VRV
+	VSG
+	VSW
+	VTG
+	VTR
+	VTR
+	WAE
+	WGE
+	WNK
+	WQA
+	YDA
+	YDF
+	YEE
+	YFV
+	YTC
+	YTK
+	YTL
+	YVD
+i = 2, count = 241
+best_count = 241, best_match = 2
+Processing: sp-P00743-FA10_BOVIN
+Words for: gi|119759|sp|P00743|FA10_BOVIN
+	word	AAG
+	word	AAH
+	word	ACL
+	word	ACQ
+	word	ACS
+	word	ADL
+	word	AEA
+	word	AEG
+	word	AEG
+	word	AEQ
+	word	AGA
+	word	AGE
+	word	AGL
+	word	AGS
+	word	AGS
+	word	AGY
+	word	AHC
+	word	AHE
+	word	AHG
+	word	AHR
+	word	AIH
+	word	AKR
+	word	ALD
+	word	ALG
+	word	ALL
+	word	ANS
+	word	APA
+	word	APA
+	word	ARA
+	word	ARE
+	word	ARK
+	word	ARR
+	word	ASE
+	word	ATL
+	word	ATW
+	word	AVL
+	word	CAE
+	word	CAE
+	word	CAG
+	word	CAH
+	word	CAR
+	word	CDQ
+	word	CEF
+	word	CEG
+	word	CGG
+	word	CGK
+	word	CKD
+	word	CKL
+	word	CLE
+	word	CLH
+	word	CLN
+	word	CLP
+	word	CPW
+	word	CQG
+	word	CRE
+	word	CSC
+	word	CSL
+	word	CSL
+	word	CTC
+	word	CVS
+	word	DAC
+	word	DAE
+	word	DAL
+	word	DAS
+	word	DCA
+	word	DDS
+	word	DEF
+	word	DFD
+	word	DGD
+	word	DGI
+	word	DGS
+	word	DIA
+	word	DKI
+	word	DLL
+	word	DLS
+	word	DNG
+	word	DPA
+	word	DQA
+	word	DQC
+	word	DQF
+	word	DRN
+	word	DRS
+	word	DSG
+	word	DSK
+	word	DTQ
+	word	DTY
+	word	DWA
+	word	DYT
+	word	EAC
+	word	EAP
+	word	EAR
+	word	EAT
+	word	ECL
+	word	ECP
+	word	EDA
+	word	EDA
+	word	EDA
+	word	EDG
+	word	EEA
+	word	EEA
+	word	EEG
+	word	EEN
+	word	EER
+	word	EEV
+	word	EFS
+	word	EFW
+	word	EFY
+	word	EGC
+	word	EGE
+	word	EGF
+	word	EGF
+	word	EGH
+	word	EGK
+	word	EGN
+	word	EHY
+	word	EIC
+	word	EKD
+	word	EKG
+	word	ELE
+	word	EMA
+	word	EMT
+	word	ENE
+	word	EPS
+	word	EQE
+	word	EQT
+	word	ERE
+	word	ERF
+	word	ERS
+	word	ESS
+	word	ETY
+	word	EVE
+	word	EVF
+	word	EVK
+	word	EVP
+	word	EVR
+	word	FCA
+	word	FCG
+	word	FCR
+	word	FDI
+	word	FED
+	word	FEG
+	word	FGR
+	word	FGV
+	word	FKD
+	word	FLE
+	word	FLK
+	word	FLP
+	word	FPC
+	word	FRR
+	word	FST
+	word	FTI
+	word	FTQ
+	word	FTV
+	word	FVK
+	word	FVT
+	word	FWS
+	word	FYV
+	word	GAA
+	word	GCA
+	word	GCD
+	word	GDD
+	word	GDQ
+	word	GDR
+	word	GDS
+	word	GDY
+	word	GEC
+	word	GED
+	word	GEG
+	word	GFC
+	word	GFE
+	word	GFG
+	word	GGC
+	word	GGL
+	word	GGP
+	word	GGR
+	word	GGT
+	word	GHC
+	word	GHP
+	word	GHS
+	word	GIG
+	word	GIV
+	word	GIV
+	word	GKF
+	word	GKF
+	word	GKN
+	word	GLL
+	word	GLL
+	word	GLN
+	word	GNE
+	word	GNL
+	word	GPH
+	word	GRD
+	word	GRL
+	word	GRS
+	word	GRT
+	word	GSQ
+	word	GSR
+	word	GSV
+	word	GTI
+	word	GVY
+	word	GYD
+	word	GYV
+	word	HCK
+	word	HCL
+	word	HEK
+	word	HEV
+	word	HGY
+	word	HLV
+	word	HPC
+	word	HQA
+	word	HRV
+	word	HSE
+	word	HSR
+	word	HTS
+	word	HVT
+	word	HYD
+	word	IAV
+	word	ICS
+	word	IDK
+	word	IGD
+	word	IHT
+	word	ILN
+	word	IMK
+	word	IRF
+	word	ITP
+	word	IVG
+	word	IVS
+	word	IVS
+	word	KAR
+	word	KDG
+	word	KDG
+	word	KDT
+	word	KDW
+	word	KET
+	word	KFG
+	word	KFT
+	word	KGK
+	word	KGR
+	word	KHS
+	word	KIM
+	word	KLS
+	word	KML
+	word	KNC
+	word	KQG
+	word	KRF
+	word	KSC
+	word	KTG
+	word	KTP
+	word	KVS
+	word	KWI
+	word	KYK
+	word	LDA
+	word	LDL
+	word	LDN
+	word	LEE
+	word	LEE
+	word	LEE
+	word	LEH
+	word	LER
+	word	LEV
+	word	LGD
+	word	LGG
+	word	LGL
+	word	LHL
+	word	LHQ
+	word	LKM
+	word	LKT
+	word	LKW
+	word	LLG
+	word	LLH
+	word	LLR
+	word	LLS
+	word	LLV
+	word	LMT
+	word	LNE
+	word	LNQ
+	word	LNR
+	word	LPE
+	word	LPL
+	word	LPR
+	word	LQR
+	word	LRL
+	word	LRP
+	word	LSP
+	word	LSS
+	word	LSS
+	word	LST
+	word	LTA
+	word	LVL
+	word	LVN
+	word	MAG
+	word	MAH
+	word	MFC
+	word	MKA
+	word	MLE
+	word	MTQ
+	word	MTV
+	word	NCE
+	word	NEE
+	word	NEF
+	word	NEG
+	word	NEM
+	word	NFL
+	word	NGG
+	word	NLE
+	word	NMF
+	word	NQG
+	word	NRT
+	word	NSF
+	word	NTE
+	word	NVA
+	word	PAC
+	word	PAD
+	word	PAG
+	word	PAT
+	word	PCG
+	word	PCL
+	word	PED
+	word	PEK
+	word	PHV
+	word	PIR
+	word	PLP
+	word	PNM
+	word	PPL
+	word	PPP
+	word	PRD
+	word	PSA
+	word	PTE
+	word	PWQ
+	word	PYV
+	word	QAH
+	word	QAK
+	word	QAL
+	word	QCE
+	word	QEE
+	word	QFC
+	word	QGD
+	word	QGH
+	word	QGN
+	word	QGR
+	word	QKT
+	word	QPE
+	word	QRA
+	word	QTD
+	word	QVV
+	word	RAG
+	word	RAN
+	word	RAR
+	word	RCS
+	word	RDC
+	word	RDQ
+	word	REC
+	word	REE
+	word	REI
+	word	REV
+	word	RFK
+	word	RFP
+	word	RFR
+	word	RFT
+	word	RFV
+	word	RGH
+	word	RIV
+	word	RKG
+	word	RLK
+	word	RLS
+	word	RNT
+	word	RNV
+	word	RPA
+	word	RRA
+	word	RRN
+	word	RRW
+	word	RSE
+	word	RSR
+	word	RST
+	word	RTE
+	word	RTH
+	word	RVG
+	word	RVL
+	word	RWA
+	word	SAG
+	word	SCA
+	word	SCV
+	word	SEA
+	word	SED
+	word	SEL
+	word	SEV
+	word	SFL
+	word	SFT
+	word	SGF
+	word	SGG
+	word	SKS
+	word	SKY
+	word	SLD
+	word	SLD
+	word	SLE
+	word	SNF
+	word	SPT
+	word	SQV
+	word	SRF
+	word	SRG
+	word	SRR
+	word	SSF
+	word	SSL
+	word	SSS
+	word	SST
+	word	STA
+	word	STC
+	word	STE
+	word	STL
+	word	STR
+	word	SVF
+	word	SWG
+	word	TAA
+	word	TAL
+	word	TCA
+	word	TCK
+	word	TCT
+	word	TDE
+	word	TEP
+	word	TEQ
+	word	TER
+	word	TES
+	word	TGI
+	word	TGI
+	word	THE
+	word	TIL
+	word	TIT
+	word	TKV
+	word	TLK
+	word	TLM
+	word	TPI
+	word	TPN
+	word	TQG
+	word	TQK
+	word	TQP
+	word	TRE
+	word	TRF
+	word	TSE
+	word	TVK
+	word	TVP
+	word	TVR
+	word	TWT
+	word	TYD
+	word	TYF
+	word	VAP
+	word	VDR
+	word	VEM
+	word	VFE
+	word	VFL
+	word	VGD
+	word	VGG
+	word	VKE
+	word	VKH
+	word	VKQ
+	word	VLG
+	word	VLL
+	word	VLQ
+	word	VLR
+	word	VLT
+	word	VNE
+	word	VPP
+	word	VPY
+	word	VRC
+	word	VRI
+	word	VRV
+	word	VSG
+	word	VSN
+	word	VST
+	word	VSW
+	word	VTG
+	word	VTR
+	word	VVR
+	word	VYT
+	word	WAE
+	word	WAI
+	word	WGE
+	word	WID
+	word	WQA
+	word	WSK
+	word	WTV
+	word	YDF
+	word	YDP
+	word	YDT
+	word	YFV
+	word	YKD
+	word	YTC
+	word	YTK
+	word	YVD
+	word	YVL
+	word	YVL
+
+findBest: total = 4
+	AEG
+	ARE
+	CAE
+	CKD
+	CLP
+	CSC
+	CTC
+	DGD
+	DGI
+	DNG
+	DQC
+	EAR
+	EEA
+	EGK
+	ERE
+	EVF
+	FED
+	GDQ
+	GHS
+	GIG
+	GKN
+	KAR
+	KDG
+	KNC
+	NCE
+	REC
+	REV
+	SCA
+	SCV
+	TCK
+	TCT
+	VFE
+	YTC
+	YVD
+i = 0, count = 34
+	AAH
+	ACL
+	ACQ
+	AGY
+	AHC
+	ARK
+	AVL
+	CAG
+	CAR
+	CGG
+	CKL
+	CLP
+	CPW
+	CQG
+	DAC
+	DIA
+	DKI
+	DSG
+	ECP
+	EGC
+	EKG
+	EVF
+	FCA
+	FCG
+	FGR
+	GCA
+	GDS
+	GEC
+	GEG
+	GFG
+	GGP
+	GGT
+	GIV
+	GPH
+	GTI
+	GVY
+	GYD
+	IVS
+	KET
+	KGK
+	KIM
+	KTP
+	KVS
+	LLS
+	LSP
+	LSS
+	LTA
+	MFC
+	NMF
+	PAC
+	PWQ
+	PYV
+	QGD
+	RKG
+	SGF
+	SGG
+	SWG
+	TAA
+	TGI
+	TIL
+	TKV
+	TLK
+	TPI
+	TVP
+	VDR
+	VKE
+	VLT
+	VPP
+	VPY
+	VSG
+	VYT
+	WGE
+	WQA
+	YDT
+	YTK
+	YVD
+i = 1, count = 76
+	AAG
+	AAH
+	ACL
+	ACQ
+	AEA
+	AGL
+	AGY
+	AHC
+	AKR
+	ALL
+	ANS
+	APA
+	ARA
+	ARK
+	AVL
+	CAG
+	CAR
+	CDQ
+	CGG
+	CGK
+	CKD
+	CLH
+	CLP
+	CPW
+	CQG
+	CSC
+	CSL
+	DAC
+	DDS
+	DFD
+	DGD
+	DIA
+	DNG
+	DQC
+	DQF
+	DRN
+	DSG
+	DTY
+	DWA
+	EAP
+	ECP
+	EDA
+	EEA
+	EEG
+	EEN
+	EFW
+	EGC
+	EGF
+	EGN
+	ENE
+	ERE
+	ETY
+	EVE
+	EVF
+	EVP
+	FCA
+	FCG
+	FDI
+	FED
+	FGR
+	FGV
+	FLE
+	FLK
+	FPC
+	FRR
+	FTI
+	FVK
+	FVT
+	GAA
+	GCA
+	GCD
+	GDQ
+	GDR
+	GDS
+	GEC
+	GEG
+	GFC
+	GFG
+	GGC
+	GGP
+	GGT
+	GIV
+	GIV
+	GKF
+	GLL
+	GNE
+	GNL
+	GPH
+	GRL
+	GRT
+	GTI
+	GVY
+	GYD
+	HCL
+	HEV
+	HLV
+	HQA
+	HVT
+	IAV
+	IVG
+	IVS
+	IVS
+	KDG
+	KDW
+	KET
+	KFG
+	KGK
+	KML
+	KRF
+	KSC
+	KTG
+	KTP
+	KVS
+	KWI
+	LDN
+	LEE
+	LER
+	LEV
+	LGD
+	LHL
+	LHQ
+	LKM
+	LKT
+	LKW
+	LLG
+	LLS
+	LLV
+	LRL
+	LST
+	LTA
+	LVL
+	LVN
+	MFC
+	MLE
+	NEE
+	NEF
+	NEG
+	NFL
+	NGG
+	NLE
+	NMF
+	NQG
+	NSF
+	NVA
+	PAC
+	PAT
+	PCG
+	PED
+	PHV
+	PPP
+	PWQ
+	PYV
+	QAK
+	QAL
+	QCE
+	QFC
+	QGD
+	QKT
+	RAN
+	RAR
+	REC
+	RFK
+	RFR
+	RFV
+	RIV
+	RKG
+	RLK
+	RLS
+	RNV
+	RRA
+	RRN
+	RTH
+	RVG
+	SCA
+	SCV
+	SFL
+	SFT
+	SGF
+	SGG
+	SLD
+	SNF
+	SRR
+	SSF
+	SSL
+	SSS
+	STE
+	STL
+	SVF
+	SWG
+	TAA
+	TCK
+	TGI
+	TGI
+	THE
+	TIL
+	TIT
+	TKV
+	TLK
+	TLM
+	TPI
+	TQP
+	TRF
+	TYD
+	TYF
+	VAP
+	VDR
+	VFE
+	VGD
+	VGG
+	VKE
+	VKH
+	VLL
+	VLR
+	VLT
+	VNE
+	VPY
+	VRI
+	VRV
+	VSG
+	VSN
+	VSW
+	VTG
+	VTR
+	VYT
+	WAE
+	WGE
+	WQA
+	YDF
+	YFV
+	YTC
+	YTK
+	YVD
+i = 2, count = 232
+	AAH
+	ACL
+	ACQ
+	ADL
+	AGL
+	AGY
+	AHC
+	AKR
+	ALL
+	ANS
+	APA
+	ARE
+	ARK
+	AVL
+	CAG
+	CAR
+	CDQ
+	CGG
+	CGK
+	CKD
+	CKL
+	CLE
+	CLP
+	CPW
+	CQG
+	CSC
+	CSL
+	CTC
+	DAC
+	DFD
+	DGD
+	DIA
+	DLL
+	DNG
+	DQC
+	DQF
+	DRN
+	DRS
+	DSG
+	DTY
+	DWA
+	EAP
+	EAR
+	ECP
+	EDA
+	EEA
+	EEG
+	EEN
+	EFW
+	EFY
+	EGC
+	EGF
+	EGF
+	EGK
+	EKG
+	ENE
+	EQE
+	ERE
+	ETY
+	EVE
+	EVF
+	EVP
+	FCA
+	FCG
+	FDI
+	FED
+	FEG
+	FGR
+	FKD
+	FLE
+	FLK
+	FVT
+	GCA
+	GDQ
+	GDR
+	GDS
+	GEC
+	GEG
+	GFC
+	GFE
+	GFG
+	GGP
+	GGT
+	GIV
+	GIV
+	GKN
+	GLL
+	GPH
+	GRT
+	GTI
+	GYD
+	HCL
+	HEK
+	HEV
+	HLV
+	HVT
+	IAV
+	IVG
+	IVS
+	IVS
+	KDG
+	KDG
+	KDT
+	KET
+	KGK
+	KGR
+	KLS
+	KML
+	KNC
+	KRF
+	KTG
+	KTP
+	KWI
+	KYK
+	LDN
+	LEE
+	LER
+	LEV
+	LHL
+	LKM
+	LKT
+	LKW
+	LLG
+	LLS
+	LMT
+	LPE
+	LRL
+	LSS
+	LTA
+	LVL
+	MFC
+	MLE
+	MTQ
+	NCE
+	NEE
+	NEF
+	NEG
+	NMF
+	NQG
+	NSF
+	NTE
+	NVA
+	PAC
+	PCG
+	PHV
+	PTE
+	PWQ
+	PYV
+	QAK
+	QAL
+	QCE
+	QEE
+	QFC
+	QGD
+	QKT
+	QPE
+	RAN
+	REC
+	REV
+	RFK
+	RFT
+	RIV
+	RKG
+	RLK
+	RNT
+	RTH
+	RVG
+	SCA
+	SFL
+	SGF
+	SGG
+	SLD
+	SSF
+	SSS
+	STL
+	STR
+	SWG
+	TAA
+	TCT
+	TEQ
+	TGI
+	TGI
+	THE
+	TIL
+	TKV
+	TLM
+	TPI
+	TQK
+	TQP
+	TRF
+	TYD
+	TYF
+	VAP
+	VDR
+	VFE
+	VGD
+	VGG
+	VLL
+	VLR
+	VPY
+	VRV
+	VSG
+	VSW
+	VTG
+	VTR
+	WAE
+	WGE
+	WID
+	WQA
+	YDF
+	YDT
+	YFV
+	YKD
+	YTC
+	YTK
+	YVD
+i = 3, count = 216
+best_count = 232, best_match = 2
+Processing: sp-P25155-FA10_CHICK
+Words for: gi|119760|sp|P25155|FA10_CHICK
+	word	AAH
+	word	AAL
+	word	ACL
+	word	ACQ
+	word	ADF
+	word	ADK
+	word	AED
+	word	AEG
+	word	AEK
+	word	AET
+	word	AFE
+	word	AGR
+	word	AGR
+	word	AGY
+	word	AHC
+	word	AIT
+	word	ALI
+	word	ALP
+	word	ANE
+	word	ANS
+	word	ARE
+	word	ARK
+	word	ATS
+	word	AVL
+	word	CAA
+	word	CAG
+	word	CAR
+	word	CEF
+	word	CEQ
+	word	CGG
+	word	CGK
+	word	CHY
+	word	CIN
+	word	CKD
+	word	CKI
+	word	CKQ
+	word	CLD
+	word	CLP
+	word	CNE
+	word	CPW
+	word	CQG
+	word	CRP
+	word	CSC
+	word	CSC
+	word	CSI
+	word	CSK
+	word	CSS
+	word	CTS
+	word	CVS
+	word	DAC
+	word	DCE
+	word	DEC
+	word	DEL
+	word	DFA
+	word	DFI
+	word	DGD
+	word	DGK
+	word	DGL
+	word	DGY
+	word	DIA
+	word	DKF
+	word	DND
+	word	DNE
+	word	DPN
+	word	DQC
+	word	DQD
+	word	DRE
+	word	DRS
+	word	DSG
+	word	DTR
+	word	DTY
+	word	DVP
+	word	DVV
+	word	EAF
+	word	EAG
+	word	EAR
+	word	ECN
+	word	ECP
+	word	ECR
+	word	EDF
+	word	EDG
+	word	EDN
+	word	EEA
+	word	EEF
+	word	EEF
+	word	EEH
+	word	EEM
+	word	EER
+	word	EEV
+	word	EFC
+	word	EFE
+	word	EFV
+	word	EFW
+	word	EGC
+	word	EGG
+	word	EHS
+	word	EIK
+	word	EKE
+	word	EKG
+	word	EKI
+	word	EKT
+	word	ELA
+	word	ELR
+	word	EMK
+	word	ENM
+	word	EPI
+	word	EQF
+	word	EQK
+	word	ERC
+	word	ERE
+	word	ERT
+	word	ESA
+	word	ESP
+	word	ETE
+	word	ETT
+	word	ETY
+	word	EVD
+	word	EVF
+	word	EVL
+	word	EVP
+	word	EYV
+	word	FAI
+	word	FAN
+	word	FCA
+	word	FCG
+	word	FCS
+	word	FEA
+	word	FED
+	word	FGR
+	word	FIK
+	word	FIL
+	word	FLE
+	word	FLE
+	word	FLR
+	word	FSE
+	word	FTT
+	word	FVH
+	word	FVI
+	word	FVT
+	word	FWN
+	word	GCA
+	word	GDC
+	word	GDE
+	word	GDQ
+	word	GDS
+	word	GEC
+	word	GEE
+	word	GEG
+	word	GEV
+	word	GFG
+	word	GGD
+	word	GGP
+	word	GGQ
+	word	GGT
+	word	GGV
+	word	GIV
+	word	GKN
+	word	GKQ
+	word	GKV
+	word	GKY
+	word	GLG
+	word	GMV
+	word	GNI
+	word	GPH
+	word	GQC
+	word	GRE
+	word	GRL
+	word	GRL
+	word	GSI
+	word	GSS
+	word	GSY
+	word	GTI
+	word	GVF
+	word	GVY
+	word	GYE
+	word	GYE
+	word	GYQ
+	word	HCI
+	word	HSE
+	word	HSK
+	word	HTA
+	word	HVT
+	word	HYG
+	word	IAE
+	word	IAL
+	word	IER
+	word	IFV
+	word	IKK
+	word	IKK
+	word	IKL
+	word	IKR
+	word	IKV
+	word	ILE
+	word	ILN
+	word	ILP
+	word	ILT
+	word	INE
+	word	INN
+	word	INQ
+	word	IPK
+	word	IQF
+	word	ITD
+	word	ITE
+	word	IVG
+	word	IVS
+	word	IYV
+	word	KDA
+	word	KDG
+	word	KDT
+	word	KDV
+	word	KEE
+	word	KEE
+	word	KEI
+	word	KEP
+	word	KES
+	word	KFL
+	word	KGE
+	word	KGK
+	word	KIF
+	word	KIN
+	word	KKE
+	word	KKS
+	word	KLK
+	word	KLS
+	word	KNC
+	word	KQC
+	word	KQG
+	word	KQS
+	word	KRA
+	word	KRI
+	word	KRL
+	word	KRS
+	word	KSG
+	word	KSV
+	word	KTE
+	word	KVK
+	word	KVL
+	word	KVL
+	word	KVV
+	word	KYC
+	word	KYG
+	word	KYI
+	word	KYP
+	word	LAE
+	word	LCA
+	word	LDG
+	word	LEE
+	word	LEE
+	word	LER
+	word	LEV
+	word	LGS
+	word	LIK
+	word	LIN
+	word	LKE
+	word	LKV
+	word	LLC
+	word	LLL
+	word	LLL
+	word	LLL
+	word	LLL
+	word	LMK
+	word	LMN
+	word	LNE
+	word	LPD
+	word	LPQ
+	word	LPT
+	word	LRA
+	word	LRW
+	word	LSK
+	word	LSR
+	word	LTA
+	word	MAG
+	word	MFC
+	word	MKQ
+	word	MKR
+	word	MNQ
+	word	MRQ
+	word	MVS
+	word	NAT
+	word	NCE
+	word	NDI
+	word	NED
+	word	NEE
+	word	NEK
+	word	NEK
+	word	NEV
+	word	NFA
+	word	NGD
+	word	NGS
+	word	NGS
+	word	NIE
+	word	NIY
+	word	NMF
+	word	NNG
+	word	NPC
+	word	NQK
+	word	NQS
+	word	NSF
+	word	NSN
+	word	NTN
+	word	NVD
+	word	PAC
+	word	PCG
+	word	PCH
+	word	PDE
+	word	PGE
+	word	PHV
+	word	PIQ
+	word	PKY
+	word	PNV
+	word	PPP
+	word	PPR
+	word	PQA
+	word	PRN
+	word	PST
+	word	PTN
+	word	PTP
+	word	PWQ
+	word	PYV
+	word	QAD
+	word	QAV
+	word	QCK
+	word	QCS
+	word	QCV
+	word	QDV
+	word	QFC
+	word	QFS
+	word	QGD
+	word	QGK
+	word	QGN
+	word	QKD
+	word	QKD
+	word	QKS
+	word	QSK
+	word	QST
+	word	RAE
+	word	RAN
+	word	RCS
+	word	REA
+	word	REC
+	word	REF
+	word	REK
+	word	RFL
+	word	RIK
+	word	RIV
+	word	RKG
+	word	RLK
+	word	RLL
+	word	RLS
+	word	RNG
+	word	RPG
+	word	RQK
+	word	RST
+	word	RSV
+	word	RTK
+	word	RTV
+	word	RWV
+	word	RYK
+	word	SAD
+	word	SCL
+	word	SCT
+	word	SDQ
+	word	SET
+	word	SEY
+	word	SFL
+	word	SGF
+	word	SGG
+	word	SGM
+	word	SGY
+	word	SIK
+	word	SIL
+	word	SIT
+	word	SKE
+	word	SKE
+	word	SKR
+	word	SKV
+	word	SKY
+	word	SNP
+	word	SNT
+	word	SPT
+	word	SRF
+	word	SSI
+	word	SSN
+	word	STC
+	word	STN
+	word	STN
+	word	SVI
+	word	SVQ
+	word	SWG
+	word	SYT
+	word	TAA
+	word	TAE
+	word	TCK
+	word	TCS
+	word	TDP
+	word	TEE
+	word	TEN
+	word	TEQ
+	word	TES
+	word	TGI
+	word	THT
+	word	TIL
+	word	TKL
+	word	TKR
+	word	TNA
+	word	TNF
+	word	TNG
+	word	TNS
+	word	TPP
+	word	TRI
+	word	TRY
+	word	TSD
+	word	TSG
+	word	TTE
+	word	TTH
+	word	TTT
+	word	TTT
+	word	TVM
+	word	TYD
+	word	TYF
+	word	VCS
+	word	VDG
+	word	VDR
+	word	VDR
+	word	VDT
+	word	VFI
+	word	VFT
+	word	VGE
+	word	VGG
+	word	VHS
+	word	VIL
+	word	VIP
+	word	VKY
+	word	VLE
+	word	VLI
+	word	VLM
+	word	VLM
+	word	VMR
+	word	VPA
+	word	VPS
+	word	VPY
+	word	VQK
+	word	VRT
+	word	VSG
+	word	VSK
+	word	VSW
+	word	VTG
+	word	VTR
+	word	VVC
+	word	VVG
+	word	VVP
+	word	VVV
+	word	VYT
+	word	WGE
+	word	WNI
+	word	WQA
+	word	WVR
+	word	YCK
+	word	YDN
+	word	YEL
+	word	YET
+	word	YFV
+	word	YGG
+	word	YGV
+	word	YIA
+	word	YKD
+	word	YPC
+	word	YQG
+	word	YTC
+	word	YTK
+	word	YVD
+	word	YVD
+	word	YVV
+
+findBest: total = 5
+	AEG
+	ARE
+	CHY
+	CKD
+	CLP
+	CSC
+	CSK
+	CSS
+	DGD
+	DNE
+	DQC
+	EAR
+	EDN
+	EEA
+	EKT
+	ERE
+	EVF
+	FED
+	FWN
+	GDQ
+	GKN
+	GNI
+	GSY
+	IER
+	KDG
+	KEE
+	KNC
+	KTE
+	KVL
+	NCE
+	NEK
+	NIE
+	NPC
+	PCH
+	QCS
+	REC
+	RPG
+	SET
+	SKE
+	SNP
+	SSN
+	SYT
+	TCK
+	VDG
+	YTC
+	YVD
+i = 0, count = 46
+	AAH
+	ACL
+	ACQ
+	ADF
+	AGY
+	AHC
+	ANE
+	ARK
+	AVL
+	CAG
+	CAR
+	CGG
+	CIN
+	CLP
+	CPW
+	CQG
+	DAC
+	DFA
+	DIA
+	DSG
+	ECP
+	EGC
+	EKG
+	EVF
+	EVL
+	FAN
+	FCA
+	FCG
+	FGR
+	FSE
+	GCA
+	GDS
+	GEC
+	GEG
+	GEV
+	GFG
+	GGP
+	GGT
+	GIV
+	GKY
+	GPH
+	GTI
+	GVY
+	HCI
+	IKK
+	INE
+	INQ
+	IQF
+	IVS
+	IYV
+	KGE
+	KGK
+	KSV
+	KYG
+	LIN
+	LKV
+	LMK
+	LPQ
+	LPT
+	LTA
+	MFC
+	MKQ
+	NEK
+	NEV
+	NMF
+	PAC
+	PIQ
+	PWQ
+	PYV
+	QAV
+	QFS
+	QGD
+	RKG
+	RLL
+	SGF
+	SGG
+	SNT
+	SWG
+	TAA
+	TGI
+	TIL
+	VDR
+	VLI
+	VLM
+	VPA
+	VPY
+	VSG
+	VSK
+	VVP
+	VYT
+	WGE
+	WQA
+	YGV
+	YTK
+	YVD
+i = 1, count = 95
+	AAH
+	AAL
+	ACL
+	ACQ
+	AGY
+	AHC
+	ANS
+	ARK
+	AVL
+	CAG
+	CAR
+	CGG
+	CGK
+	CKD
+	CLP
+	CPW
+	CQG
+	CSC
+	CSC
+	DAC
+	DCE
+	DGD
+	DGL
+	DIA
+	DQC
+	DRE
+	DSG
+	DTY
+	ECP
+	EEA
+	EFW
+	EGC
+	EKT
+	ERE
+	ETY
+	EVF
+	EVP
+	FCA
+	FCG
+	FED
+	FGR
+	FLE
+	FVT
+	FWN
+	GCA
+	GDQ
+	GDS
+	GEC
+	GEG
+	GFG
+	GGP
+	GGQ
+	GGT
+	GIV
+	GKV
+	GLG
+	GPH
+	GRL
+	GSS
+	GTI
+	GVY
+	GYE
+	HVT
+	IVG
+	IVS
+	KDG
+	KEE
+	KGK
+	KRS
+	LEE
+	LER
+	LEV
+	LLL
+	LPQ
+	LTA
+	MFC
+	NEE
+	NMF
+	NPC
+	NSF
+	PAC
+	PCG
+	PHV
+	PPP
+	PWQ
+	PYV
+	QFC
+	QGD
+	QKD
+	RAN
+	REC
+	REK
+	RIV
+	RKG
+	RLK
+	RLS
+	SEY
+	SFL
+	SGF
+	SGG
+	SGY
+	SNP
+	SWG
+	TAA
+	TCK
+	TCS
+	TEN
+	TGI
+	TIL
+	TNS
+	TYD
+	TYF
+	VDG
+	VDR
+	VFI
+	VGG
+	VPY
+	VSG
+	VSW
+	VTG
+	VTR
+	VVV
+	VYT
+	WGE
+	WQA
+	YFV
+	YTC
+	YTK
+	YVD
+	YVD
+i = 2, count = 130
+	AAH
+	ACL
+	ACQ
+	AGY
+	AHC
+	ANS
+	ARE
+	ARK
+	ATS
+	AVL
+	CAG
+	CAR
+	CGG
+	CGK
+	CKD
+	CLP
+	CPW
+	CQG
+	CSC
+	DAC
+	DGD
+	DGL
+	DIA
+	DQC
+	DRS
+	DSG
+	DTY
+	EAR
+	ECP
+	EEA
+	EEM
+	EFW
+	EGC
+	EGG
+	EKG
+	EMK
+	ERE
+	ETY
+	EVF
+	EVP
+	FCA
+	FCG
+	FED
+	FGR
+	FLE
+	FVT
+	FWN
+	GCA
+	GDC
+	GDQ
+	GDS
+	GEC
+	GEG
+	GFG
+	GGP
+	GGQ
+	GGT
+	GIV
+	GKN
+	GKQ
+	GKY
+	GLG
+	GPH
+	GTI
+	HVT
+	ILT
+	INE
+	IVG
+	IVS
+	KDG
+	KDT
+	KGK
+	KLS
+	KNC
+	KRS
+	KYG
+	LEE
+	LER
+	LEV
+	LIN
+	LLL
+	LLL
+	LTA
+	MFC
+	NCE
+	NEE
+	NGD
+	NMF
+	NSF
+	PAC
+	PCG
+	PHV
+	PWQ
+	PYV
+	QFC
+	QGD
+	QGK
+	QST
+	RAN
+	REC
+	RIV
+	RKG
+	RLK
+	RSV
+	SFL
+	SGF
+	SGG
+	SIT
+	SWG
+	TAA
+	TCS
+	TEN
+	TEQ
+	TGI
+	TIL
+	TRI
+	TYD
+	TYF
+	VCS
+	VDR
+	VGG
+	VPY
+	VSG
+	VSW
+	VTG
+	VTR
+	VVC
+	WGE
+	WQA
+	YFV
+	YKD
+	YPC
+	YTC
+	YTK
+	YVD
+i = 3, count = 135
+	AAH
+	ACL
+	ACQ
+	AEG
+	AGY
+	AHC
+	ANS
+	ARE
+	ARK
+	AVL
+	CAG
+	CAR
+	CEF
+	CGG
+	CGK
+	CKD
+	CLP
+	CPW
+	CQG
+	CSC
+	CVS
+	DAC
+	DGD
+	DIA
+	DQC
+	DRS
+	DSG
+	DTY
+	EAR
+	ECP
+	EDG
+	EEA
+	EER
+	EEV
+	EFW
+	EGC
+	EKG
+	ERE
+	ETY
+	EVF
+	EVP
+	FCA
+	FCG
+	FED
+	FGR
+	FLE
+	FVT
+	GCA
+	GDQ
+	GDS
+	GEC
+	GEG
+	GFG
+	GGP
+	GGT
+	GIV
+	GKN
+	GPH
+	GRL
+	GTI
+	GVY
+	HSE
+	HVT
+	ILN
+	IVG
+	IVS
+	KDG
+	KDT
+	KGK
+	KLS
+	KNC
+	KQG
+	LEE
+	LEE
+	LER
+	LEV
+	LNE
+	LTA
+	MAG
+	MFC
+	NCE
+	NEE
+	NMF
+	NSF
+	PAC
+	PCG
+	PHV
+	PPP
+	PWQ
+	PYV
+	QFC
+	QGD
+	QGN
+	RAN
+	RCS
+	REC
+	RIV
+	RKG
+	RLK
+	RLS
+	RST
+	SFL
+	SGF
+	SGG
+	SKY
+	SPT
+	SRF
+	STC
+	SWG
+	TAA
+	TCK
+	TEQ
+	TES
+	TGI
+	TIL
+	TYD
+	TYF
+	VDR
+	VGG
+	VPY
+	VSG
+	VSW
+	VTG
+	VTR
+	VYT
+	WGE
+	WQA
+	YFV
+	YKD
+	YTC
+	YTK
+	YVD
+i = 4, count = 132
+best_count = 135, best_match = 3
+
+6 protein sequences
+2 protein families
+
+0	gi|6225307|sp||FA10_TROCA_1	1	0	0
+1	gi|6225308|sp||FA10_TROCA_2	2	76	2
+2	gi|3913632|sp|O19045|FA10_RABIT	2	241	3
+3	gi|119761|sp|P00742|FA10_HUMAN	2	241	2
+4	gi|119759|sp|P00743|FA10_BOVIN	2	232	2
+5	gi|119760|sp|P25155|FA10_CHICK	2	135	3

@@ -1,0 +1,3 @@
+java SwissProtParser new_seq.dat > new_seq.tax
+java SwissProtParser upd_seq.dat > upd_seq.tax
+java SwissProtParser sprot39.dat > sprot39.tax

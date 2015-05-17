@@ -1,0 +1,156 @@
+>FA9_HUMAN COAGULATION FACTOR IX PRECURSOR (CHRISTMAS FACTOR) ..
+MQRVNMIMAESPGLITICLLGYLLSAECTVFLDHENANKILNRPKRYNSG
+KLEEFVQGNLERECMEEKCSFEEAREVFENTERTTEFWKQYVDGDQCESN
+PCLNGGSCKDDINSYECWCPFGFEGKNCELDVTCNIKNGRCEQFCKNSAD
+NKVVCSCTEGYRLAENQKSCEPAVPFPCGRVSVSQTSKLTRAEAVFPDVD
+YVNSTEAETILDNITQSTQSFNDFTRVVGGEDAKPGQFPWQVVLNGKVDA
+FCGGSIVNEKWIVTAAHCVETGVKITVVAGEHNIEETEHTEQKRNVIRII
+PHHNYNAAINKYNHDIALLELDEPLVLNSYVTPICIADKEYTNIFLKFGS
+GYVSGWGRVFHKGRSALVLQYLRVPLVDRATCLRSTKFTIYNNMFCAGFH
+EGGRDSCQGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYTKVSRY
+VNWIKEKTKLT
+>XP_519441.1_1-247 /organism="Pan troglodytes" /chromosome="7" /molecule="" /date="09-NOV-2004" Exons[1-247] /product="similar to trypsinogen C"  /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Pan."
+mnpllilafvgaavavpfddddkivggytceensvpyqvslnsgshfcgg
+sliseqwvvsaghcykphiqvrlgehnievlegneqfinaakiirhpkyn
+ritlnndimliklstpavinahvsnislptappaagteclisgwgntlss
+gadypdelqcldapvltqakckasyplkitsnmfcvgfleggkdscqgds
+ggpvvcngqlqgivswgygcaqkrrpgvytkvynyvdwikdtiaans
+>FA9_BOVIN /organism="Bos taurus" /accession="P00741" /gene="Name=F9;" /keywords="3D-structure; Blood coagulation; Calcium-binding; Direct protein sequencing; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hemophilia; Hydrolase; Hydroxylation; Plasma; Serine protease; Vitamin K; Zymogen" /EC="3.4.21.22" /description="Coagulation factor IX (EC 3.4.21.22) (Christmas factor)" /id="FA9_BOVIN" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Cetartiodactyla; Ruminantia; Pecora; Bovidae; Bovinae; Bos"
+YNSGKLEEFVRGNLERECKEEKCSFEEAREVFENTEKTTEFWKQYVDGDQ
+CESNPCLNGGMCKDDINSYECWCQAGFEGTNCELDATCSIKNGRCKQFCK
+RDTDNKVVCSCTDGYRLAEDQKSCEPAVPFPCGRVSVSHISKKLTRAETI
+FSNTNYENSSEAEIIWDNVTQSNQSFDEFSRVVGGEDAERGQFPWQVLLH
+GEIAAFCGGSIVNEKWVVTAAHCIKPGVKITVVAGEHNTEKPEPTEQKRN
+VIRAIPYHSYNASINKYSHDIALLELDEPLELNSYVTPICIADRDYTNIF
+SKFGYGYVSGWGKVFNRGRSASILQYLKVPLVDRATCLRSTKFSIYSHMF
+CAGYHEGGKDSCQGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYT
+KVSRYVNWIKEKTKLT
+>FA9_CANFA /organism="Canis familiaris" /accession="P19540" /gene="Name=F9;" /keywords="Blood coagulation; Calcium-binding; Disease mutation; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hemophilia; Hydrolase; Hydroxylation; Plasma; Repeat; Serine protease; Signal; Vitamin K; Zymogen" /EC="3.4.21.22" /description="Coagulation factor IX precursor (EC 3.4.21.22) (Christmas factor)" /id="FA9_CANFA" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Carnivora; Fissipedia; Canidae; Canis"
+MAEASGLVTVCLLGYLLSAECAVFLDRENATKILSRPKRYNSGKLEEFVR
+GNLERECIEEKCSFEEAREVFENTEKTTEFWKQYVDGDQCESNPCLNDGV
+CKDDINSYECWCRAGFEGKNCELDVTCNIKNGRCKQFCKLGPDNKVVCSC
+TTGYQLAEDQRSCEPAVPFPCGRVSVPHISMTRTRAETLFSNMDYENSTE
+VEKILDNVTQPLNDFTRVVGGKDAKPGQFPWQVLLNGKVDAFCGGSIINE
+KWVVTAAHCIEPDVKITIVAGEHNTEKREHTEQKRNVIRTILHHSYNATI
+NKYNHDIALLELDEPLTLNSYVTPICIADREYSNIFLKFGSGYVSGWGRV
+FNKGRSASILQYLKVPLVDRATCLRSTKFTIYNNMFCAGFHEGGKDSCQG
+DSGGPHVTEVEGISFLTGIISWGEECAMKGKYGIYTKVSRYVNWIKEKTK
+LT
+>FA9_CAVPO /organism="Cavia porcellus" /accession="P16295" /gene="Name=F9;" /keywords="Blood coagulation; Calcium-binding; Glycoprotein; Hydrolase; Plasma; Serine protease" /EC="3.4.21.22" /description="Coagulation factor IX (EC 3.4.21.22) (Christmas factor) (Fragment)" /id="FA9_CAVPO" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Rodentia; Hystricognathi; Caviidae; Cavia"
+RVSIPSVSKEHNRANAIFSRMGYVNFTDDETIWDDNDDDETIWDNSTEST
+KPSDEFFRVVGGEDAKPGQFPWQVLLNGETEAFCGGSIVNEKWIVTAAHC
+ILPGIKIEVVAGKHNIEKKEDTEQRRNVTQIILHHSYNASFNKYSHDIAL
+LELDKPLSLNSYVTPICIANREYTNIFLKFGAGYVSGWGKLFSQGRTASI
+LQYLRVPLVDRATCLRSTKFTIYNNMFCAGFHEGGRDSCQGDSGGPHVTE
+VEGTNFLTGIISWGEECAMKGKYGIYTKVSRYVNW
+>FA9_HUMAN /organism="Homo sapiens" /accession="P00740" /gene="Name=F9;" /keywords="3D-structure; Blood coagulation; Calcium-binding; Direct protein sequencing; Disease mutation; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hemophilia; Hydrolase; Hydroxylation; Pharmaceutical; Phosphorylation; Plasma; Polymorphism; Repeat; Serine protease; Signal; Sulfation; Vitamin K; Zymogen" /EC="3.4.21.22" /description="Coagulation factor IX precursor (EC 3.4.21.22) (Christmas factor) (Plasma thromboplastin component) (PTC)" /id="FA9_HUMAN" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo"
+MQRVNMIMAESPGLITICLLGYLLSAECTVFLDHENANKILNRPKRYNSG
+KLEEFVQGNLERECMEEKCSFEEAREVFENTERTTEFWKQYVDGDQCESN
+PCLNGGSCKDDINSYECWCPFGFEGKNCELDVTCNIKNGRCEQFCKNSAD
+NKVVCSCTEGYRLAENQKSCEPAVPFPCGRVSVSQTSKLTRAEAVFPDVD
+YVNSTEAETILDNITQSTQSFNDFTRVVGGEDAKPGQFPWQVVLNGKVDA
+FCGGSIVNEKWIVTAAHCVETGVKITVVAGEHNIEETEHTEQKRNVIRII
+PHHNYNAAINKYNHDIALLELDEPLVLNSYVTPICIADKEYTNIFLKFGS
+GYVSGWGRVFHKGRSALVLQYLRVPLVDRATCLRSTKFTIYNNMFCAGFH
+EGGRDSCQGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYTKVSRY
+VNWIKEKTKLT
+>FA9_MOUSE /organism="Mus musculus" /accession="P16294" /gene="Name=F9; Synonyms=Cf9;" /keywords="Blood coagulation; Calcium-binding; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hydrolase; Hydroxylation; Plasma; Repeat; Serine protease; Signal; Vitamin K; Zymogen" /EC="3.4.21.22" /description="Coagulation factor IX precursor (EC 3.4.21.22) (Christmas factor) (Fragment)" /id="FA9_MOUSE" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae; Murinae; Mus"
+ALITIFLLGYLLSTECAVFLDRENATKILTRPKRYNSGKLEEFVRGNLER
+ECIEERCSFEEAREVFENTEKTTEFWKQYVDGDQCESNPCLNGGICKDDI
+SSYECWCQVGFEGRNCELDATCNIKNGRCKQFCKNSPDNKVICSCTEGYQ
+LAEDQKSCEPTVPFPCGRASISYSSKKITRAETVFSNMDYENSTEAVFIQ
+DDITDGAILNNVTESSESLNDFTRVVGGENAKPGQIPWQVILNGEIEAFC
+GGAIINEKWIVTAAHCLKPGDKIEVVAGEYNIDKKEDTEQRRNVIRTIPH
+HQYNATINKYSHDIALLELDKPLILNSYVTPICVANREYTNIFLKFGSGY
+VSGWGKVFNKGRHASILQYLRVPLVDRATCLRSTTFTTYNNMFCAGYREG
+GKDSCEGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYTKVSRYVN
+WIKEKTKLT
+>FA9_PANTR /organism="Pan troglodytes" /accession="Q95ND7" /gene="Name=F9;" /keywords="Blood coagulation; Calcium-binding; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hydrolase; Hydroxylation; Phosphorylation; Plasma; Repeat; Serine protease; Signal; Sulfation; Vitamin K; Zymogen" /EC="3.4.21.22" /description="Coagulation factor IX precursor (EC 3.4.21.22) (Christmas factor)" /id="FA9_PANTR" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Pan"
+MQRVNMIMAESPGLITICLLGYLLSAECTVFLDHENANKILNRPKRYNSG
+KLEEFVQGNLERECMEEKCSFEEAREVFENTERTTEFWKQYVDGDQCESN
+PCLNGGSCKDDINSYECWCPFGFEGKNCELDVTCNIKNGRCEQFCKNSAD
+NKVVCSCTEGYRLAENQKSCEPAVPFPCGRVSVSQTSKLTRAETVFPDVD
+YVNSTEAETILDNITQSTQSFNDFTRVVGGEDAKPGQFPWQVVLNGKVDA
+FCGGSIVNEKWIVTAAHCVDTGVKITVVAGEHNIEETEHTEQKRNVIRII
+PHHNYNAAINKYNHDIALLELDEPLVLNSYVTPICIADKEYTNIFLKFGS
+GYVSGWGRVFHKGRSALVLQYLRVPLVDRATCLRSTKFTIYNNMFCAGFH
+EGGRDSCQGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYTKVSRY
+VNWIKEKTKLT
+>FA9_PIG /organism="Sus scrofa" /accession="P16293" /gene="Name=F9;" /keywords="3D-structure; Blood coagulation; Calcium-binding; Glycoprotein; Hydrolase; Plasma; Serine protease" /EC="3.4.21.22" /description="Coagulation factor IX (EC 3.4.21.22) (Christmas factor) (Fragment)" /id="FA9_PIG" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Cetartiodactyla; Suina; Suidae; Sus"
+SHSPTTLTRAEIIFSNMDYENSTEVEPILDSLTESNQSSDDFIRIVGGEN
+AKPGQFPWQVLLNGKIDAFCGGSIINEKWVVTAAHCIEPGVKITVVAGEY
+NTEETEPTEQRRNVIRAIPHHSYNATVNKYSHDIALLELDEPLTLNSYVT
+PICIADKEYTNIFLKFGSGYVSGWGRVFNRGRSATILQYLKVPLVDRATC
+LRSTKVTIYSNMFCAGFHEGGKDSCLGDSGGPHVTEVEGTSFLTGIISWG
+EECAVKGKYGIYTKVSRYVNW
+>FA9_RABIT /organism="Oryctolagus cuniculus" /accession="P16292" /gene="Name=F9;" /keywords="Blood coagulation; Calcium-binding; Glycoprotein; Hydrolase; Plasma; Serine protease" /EC="3.4.21.22" /description="Coagulation factor IX (EC 3.4.21.22) (Christmas factor) (Fragment)" /id="FA9_RABIT" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Lagomorpha; Leporidae; Oryctolagus"
+GVSVSHASKKITRATTIFSNTEYENFTEAETIRGNVTQRSQSSDDFTRIV
+GGENAKPGQFPWQVLLNGKVEAFCGGSIINEKWVVTAAHCIKPDDNITVV
+AGEYNIQETENTEQKRNVIRIIPYHKYNATINKYNHDIALLELDKPLTLN
+SYVTPICIANREYTNIFLNFGSGYVSGWGRVFNRGRQASILQYLRVPFVD
+RATCLRSTKFTIYNNMFCAGFDVGGKDSCEGDSGGPHVTEVEGTSFLTGI
+ISWGEECAIKGKYGVYTRVSWYVNW
+>FA9_RAT /organism="Rattus norvegicus" /accession="P16296" /gene="Name=F9; Synonyms=Cf9;" /keywords="Blood coagulation; Calcium-binding; Glycoprotein; Hydrolase; Plasma; Serine protease" /EC="3.4.21.22" /description="Coagulation factor IX (EC 3.4.21.22) (Christmas factor) (Fragment)" /id="FA9_RAT" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae; Murinae; Rattus"
+RVSVAYNSKKITRAETVFSNTDYGNSTELILDDITNSTILDNLTENSEPI
+NDFTRVVGGENAKPGQIPWQVILNGEIEAFCGGAIINEKWIVTAAHCLKP
+GDKIEVVAGEHNIDEKEDTEQRRNVIRTIPHHQYNATINKYSHDIALLEL
+DKPLILNSYVTPICVANKEYTNIFLKFGSGYVSGWGKVFNKGRQASILQY
+LRVPLVDRATCLRSTKFSIYNNMFCAGYREGGKDSCEGDSGGPHVTEVEG
+TSFLTGIISWGEECAMKGKYGIYTKVSRYVNW
+>FA9_SHEEP /organism="Ovis aries" /accession="P16291" /gene="Name=F9;" /keywords="Blood coagulation; Calcium-binding; Glycoprotein; Hydrolase; Plasma; Serine protease" /EC="3.4.21.22" /description="Coagulation factor IX (EC 3.4.21.22) (Christmas factor) (Fragment)" /id="FA9_SHEEP" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Cetartiodactyla; Ruminantia; Pecora; Bovidae; Caprinae; Ovis"
+RASVLHTSKKLTRAETIFSNMNYENSSEAEIIWDNVTQSNQSFDDFNRVV
+GGEDAARGQFPWQVLLHGEIAAFCGGSIVNEKWVVTAAHCIKPGVKITVV
+AGEHNTEKPEPTEQKRNVIRAIPYHGYNASINKYSHDIALLELDEPLELN
+SYVTPICIADREYTNIFLKFGYGYVSGWGRVFNRGRSASILQYLKVPLVD
+RATCLRSTKFTIYNHMFCAGYHEGGKDSCQGDSGGPHVTEVEGTSFLTGI
+ISWGEECAMKGKYGIYTKVSRYEV
+>FA10_BOVIN /organism="Bos taurus" /accession="P00743" /gene="Name=F10;" /keywords="3D-structure; Blood coagulation; Calcium-binding; Direct protein sequencing; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hydrolase; Hydroxylation; Plasma; Repeat; Serine protease; Signal; Sulfation; Vitamin K; Zymogen" /EC="3.4.21.6" /description="Coagulation factor X precursor (EC 3.4.21.6) (Stuart factor)" /id="FA10_BOVIN" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Cetartiodactyla; Ruminantia; Pecora; Bovidae; Bovinae; Bos"
+MAGLLHLVLLSTALGGLLRPAGSVFLPRDQAHRVLQRARRANSFLEEVKQ
+GNLERECLEEACSLEEAREVFEDAEQTDEFWSKYKDGDQCEGHPCLNQGH
+CKDGIGDYTCTCAEGFEGKNCEFSTREICSLDNGGCDQFCREERSEVRCS
+CAHGYVLGDDSKSCVSTERFPCGKFTQGRSRRWAIHTSEDALDASELEHY
+DPADLSPTESSLDLLGLNRTEPSAGEDGSQVVRIVGGRDCAEGECPWQAL
+LVNEENEGFCGGTILNEFYVLTAAHCLHQAKRFTVRVGDRNTEQEEGNEM
+AHEVEMTVKHSRFVKETYDFDIAVLRLKTPIRFRRNVAPACLPEKDWAEA
+TLMTQKTGIVSGFGRTHEKGRLSSTLKMLEVPYVDRSTCKLSSSFTITPN
+MFCAGYDTQPEDACQGDSGGPHVTRFKDTYFVTGIVSWGEGCARKGKFGV
+YTKVSNFLKWIDKIMKARAGAAGSRGHSEAPATWTVPPPLPL
+>FA10_CHICK /organism="Gallus gallus" /accession="P25155" /gene="Name=FX;" /keywords="Blood coagulation; Calcium-binding; Direct protein sequencing; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hydrolase; Hydroxylation; Plasma; Repeat; Serine protease; Signal; Vitamin K; Zymogen" /EC="3.4.21.6" /description="Coagulation factor X precursor (EC 3.4.21.6) (Stuart factor) (Virus activating protease) (VAP)" /id="FA10_CHICK" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Archosauria; Aves; Neognathae; Galliformes; Phasianidae; Phasianinae; Gallus"
+MAGRLLLLLLCAALPDELRAEGGVFIKKESADKFLERTKRANSFLEEMKQ
+GNIERECNEERCSKEEAREAFEDNEKTEEFWNIYVDGDQCSSNPCHYGGQ
+CKDGLGSYTCSCLDGYQGKNCEFVIPKYCKINNGDCEQFCSIKKSVQKDV
+VCSCTSGYELAEDGKQCVSKVKYPCGKVLMKRIKRSVILPTNSNTNATSD
+QDVPSTNGSILEEVFTTTTESPTPPPRNGSSITDPNVDTRIVGGDECRPG
+ECPWQAVLINEKGEEFCGGTILNEDFILTAAHCINQSKEIKVVVGEVDRE
+KEEHSETTHTAEKIFVHSKYIAETYDNDIALIKLKEPIQFSEYVVPACLP
+QADFANEVLMNQKSGMVSGFGREFEAGRLSKRLKVLEVPYVDRSTCKQST
+NFAITENMFCAGYETEQKDACQGDSGGPHVTRYKDTYFVTGIVSWGEGCA
+RKGKYGVYTKLSRFLRWVRTVMRQK
+>FA10_HOPST /organism="Hoplocephalus stephensii" /accession="P83370" /keywords="Blood coagulation; Calcium-binding; Direct protein sequencing; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hydrolase; Hydroxylation; Repeat; Serine protease; Vitamin K; Zymogen" /EC="3.4.21.6" /description="Coagulation factor X (EC 3.4.21.6) (Hopsarin D)" /id="FA10_HOPST" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Lepidosauria; Squamata; Scleroglossa; Serpentes; Colubroidea; Elapidae; Notechinae; Hoplocephalus"
+SNSLFEEIRPGNIERECIEEKCSKEEAREVFEDNEKTTTFWNVYVDGDQC
+SSNPCHYRGTCKDGIGSYTCTCLPNYEGKNCEKVLFKSCRAFNGNCWHFC
+KRVQSETQCSCAESYRLGVDGHSCVAEGDFSCGRNIKARNKIVNGMDSKL
+GECPWQAVLINEKGEVFCGGTILSPIHVLTAAHCINQTKSVKETRRLLSV
+DKIYVHTKFVPPNYYYGHQNFDRVAYDYDIAIIRMKTPIQFSENVVPACL
+PTADFANEVLMKQDSGIVSGFGRIRFKEPTSNTLKVITVPYVDRHTCMLS
+SDFRITQNMFCAGYDTLPQDACQGDSGGPHITAYGDTHFITGIVSWGEGC
+ARKGKYGVYTKVSRFIPWIKKIMSLK
+>FA10_HUMAN /organism="Homo sapiens" /accession="P00742" /gene="Name=F10;" /keywords="3D-structure; Blood coagulation; Calcium-binding; Direct protein sequencing; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hydrolase; Hydroxylation; Plasma; Polymorphism; Repeat; Serine protease; Signal; Vitamin K; Zymogen" /EC="3.4.21.6" /description="Coagulation factor X precursor (EC 3.4.21.6) (Stuart factor) (Stuart- Prower factor)" /id="FA10_HUMAN" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo"
+MGRPLHLVLLSASLAGLLLLGESLFIRREQANNILARVTRANSFLEEMKK
+GHLERECMEETCSYEEAREVFEDSDKTNEFWNKYKDGDQCETSPCQNQGK
+CKDGLGEYTCTCLEGFEGKNCELFTRKLCSLDNGDCDQFCHEEQNSVVCS
+CARGYTLADNGKACIPTGPYPCGKQTLERRKRSVAQATSSSGEAPDSITW
+KPYDAADLDPTENPFDLLDFNQTQPERGDNNLTRIVGGQECKDGECPWQA
+LLINEENEGFCGGTILSEFYILTAAHCLYQAKRFKVRVGDRNTEQEEGGE
+AVHEVEVVIKHNRFTKETYDFDIAVLRLKTPITFRMNVAPACLPERDWAE
+STLMTQKTGIVSGFGRTHEKGRQSTRLKMLEVPYVDRNSCKLSSSFIITQ
+NMFCAGYDTKQEDACQGDSGGPHVTRFKDTYFVTGIVSWGEGCARKGKYG
+IYTKVTAFLKWIDRSMKTRGLPKAKSHAPEVITSSPLK
+>FA10_MOUSE /organism="Mus musculus" /accession="O88947" /gene="Name=F10;" /keywords="Blood coagulation; Calcium-binding; EGF-like domain; Gamma-carboxyglutamic acid; Glycoprotein; Hydrolase; Hydroxylation; Plasma; Repeat; Serine protease; Signal; Vitamin K; Zymogen" /EC="3.4.21.6" /description="Coagulation factor X precursor (EC 3.4.21.6) (Stuart factor)" /id="FA10_MOUSE" /taxonomy="Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae; Murinae; Mus"
+MGSPVQLSLLCVVLASLLLPGKGVFINRERANNVLARTRRANSFFEEFKK
+GNLERECMEEICSYEEVREIFEDDEKTKEYWTKYKDGDQCESSPCQNQGA
+CRDGIGGYTCTCSEGFEGKNCELFVRKLCRLDNGDCDQFCREEQNSVVCS
+CASGYFLGNDGKSCISTAPFPCGKITTGRRKRSVALNTSDSELDLEDALL
+DEDFLSPTENPIELLNLNETQPERSSDDLVRIVGGRECKDGECPWQALLI
+NEDNEGFCGGTILNEFYILTAAHCLHQARRFKVRVGDRNTEKEEGNEMVH
+EVDVVIKHNKFQRDTYDYDIAVLRLKTPITFRMNVAPACLPQKDWAESTL
